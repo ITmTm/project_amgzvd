@@ -26,3 +26,5 @@ require("news.php");
 ?>
 
 <link rel="stylesheet" href="css/style.css">
+
+<? require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");
