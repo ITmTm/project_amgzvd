@@ -6,4 +6,6 @@ $APPLICATION->SetPageProperty("description", "Амега - завод пласт
 $APPLICATION->SetPageProperty("keywords", "");
 $APPLICATION->SetPageProperty("title", "Завод Амега в ".$SEO_CITY." | Новости и события");
 
+Bitrix\Main\Page\Asset::getInstance()->addJs("/news-smi/js/script.js");
+
 ?>
