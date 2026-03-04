@@ -9,7 +9,10 @@ $APPLICATION->SetPageProperty("title", "Завод Амега в ".$SEO_CITY." |
 Bitrix\Main\Page\Asset::getInstance()->addJs("/news-smi/js/script.js");
 
 $breadcrumbs = [
-
+    array(
+        "title"=> "Главная",
+        "url"=> "/",
+    ),
 ]
 
 ?>
