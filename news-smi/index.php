@@ -2,4 +2,7 @@
 require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/header.php");
 
 $APPLICATION->SetTitle("Завод Амега в ".$SEO_CITY." | Новости и события");
+$APPLICATION->SetPageProperty("description", "Амега - завод пластиковых окон в ".$SEO_CITY.". Новости и события от производителя пластиковых окон, дверей, натяжных потолков, балконных блоков");
+$APPLICATION->SetPageProperty("keywords", "");
+
 ?>
