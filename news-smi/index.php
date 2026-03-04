@@ -22,5 +22,5 @@ $breadcrumbs = [
 require($_SERVER["DOCUMENT_ROOT"] . "/parts/breadcrumbs.php");
 require("hero.php");
 require("search.php");
-
+require("news.php");?>
 ?>
