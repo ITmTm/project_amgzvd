@@ -1,0 +1,28 @@
+/* hero.php */
+.banner {
+  background-color: #F0F0F0;
+  background-image: url(../pic/banner.png);
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  height: 715px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 90px;
+}
+
+.banner__image {
+  display: none;
+}
+
+.banner__text {
+  max-width: 572px;
+}
+
+.banner__title {
+  margin-bottom: 32px;
+}
+
+.banner__btn {
+  width: 100%;
+  max-width: 513px;
+}
