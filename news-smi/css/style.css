@@ -26,3 +26,8 @@
   width: 100%;
   max-width: 513px;
 }
+
+* search.php */
+.news-search {
+  gap: 40px;
+}
