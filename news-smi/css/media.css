@@ -112,28 +112,66 @@
 
 /* Tablet small — 768px */
 @media (max-width: 768px) {
+  .new-container {
+    max-width: 540px;
+  }
+
   .banner {
-    background-image: none;
     height: auto;
     align-items: flex-start;
-    padding: 40px 0 0;
-    margin-bottom: 40px;
+    padding-top: 32px;
+    background-image: none;
   }
 
   .banner__text {
     max-width: 100%;
   }
 
-  .banner__title {
-    margin-bottom: 20px;
+  .banner__description {
+    margin-bottom: 32px;
   }
 
-  /* Показываем картинку как img под текстом */
   .banner__image {
     display: block;
-    width: 100%;
-    max-width: 480px;
-    margin: 24px auto 0;
+    margin: 0 auto;
+  }
+
+  .col-12 {
+    display: flex;
+  }
+
+  .btn-brand-red {
+    width: 100%
+  }
+
+
+  .social-links {
+    grid-template-columns: 1fr;
+  }
+
+  .social-links a {
+    height: 188px;
+    gap: 16px;
+  }
+
+  .social-links a:nth-child(3) {
+    grid-column: 1 / 2;
+  }
+
+  .banner {
+    margin-bottom: 80px;
+  }
+
+  .pt-5 {
+    padding-top: 0 !important;
+  }
+
+  .news-search {
+    gap: 5px;
+  }
+
+  .news-empty {
+    font-size: 18px;
   }
 }
 
