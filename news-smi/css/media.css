@@ -6,6 +6,17 @@
 
 }
 
+@media (max-width: 1684px) {
+  .social-links {
+    gap: 20px;
+  }
+
+  .social-links a {
+    height: 244px;
+  }
+
+}
+
 @media (max-width: 1600px) {
 
 }
