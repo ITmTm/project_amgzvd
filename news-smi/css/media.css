@@ -81,14 +81,24 @@
 /* Tablet — 1024px */
 @media (max-width: 1024px) {
   .banner {
-    background-size: auto 80%;
-    background-position: right center;
-    height: 580px;
-    margin-bottom: 60px;
+    height: 400px;
   }
 
   .banner__text {
-    max-width: 420px;
+    max-width: 369px;
+  }
+
+  .banner__description {
+    margin-bottom: 40px;
+  }
+
+  .news-wrapper:has(.news-empty) {
+    margin: 40px 0;
+  }
+
+  .social-links a {
+    height: 212px;
+    gap: 20px;
   }
 }
 
