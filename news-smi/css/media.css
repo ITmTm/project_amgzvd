@@ -26,7 +26,46 @@
 }
 
 @media (max-width: 1400px) {
+  .primary-section_gray {
+    padding: 40px 0;
+  }
 
+  .banner {
+    height: 389px;
+    background-image: url(../pic/banner-tablet.avif);
+  }
+
+  .banner__text {
+    max-width: 442px;
+  }
+
+  .banner__title {
+    margin-bottom: 20px;
+  }
+
+  .banner__title br {
+    display: none;
+  }
+
+  .banner__description {
+    margin-bottom: 56px;
+  }
+
+  .social-text {
+    margin-bottom: 20px;
+  }
+
+  .social-links {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .social-links a {
+    height: 276px;
+  }
+
+  .social-links a:nth-child(3) {
+    grid-column: 1 / 3;
+  }
 }
 
 @media (max-width: 1300px) {
