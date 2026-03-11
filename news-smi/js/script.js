@@ -21,6 +21,14 @@ $(document).on('input', '#news-search-form input[name="q"]', function(e) {
   }
 });
 
+// Проверка при загрузке, есть ли значения
+$(document).ready(function () {
+  const $input = $('#news-search-form input[name="q"]');
+  if ($input.val().length > 0) {
+    $input.siblings('.input-clear').addClass('visible');
+  }
+})
+
 // Клик по крестику - очистить поле
 $(document).on('click', '.input-clear', function(e) {
   const $input = $(this).siblings('input[name="q"]');
