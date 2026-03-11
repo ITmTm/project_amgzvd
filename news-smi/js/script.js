@@ -21,6 +21,13 @@ $(document).on('input', '#news-search-form input[name="q"]', function(e) {
   }
 });
 
+// Клик по крестику - очистить поле
+$(document).on('click', '.input-clear', function(e) {
+  const $input = $(this).siblings('input[name="q"]');
+  $input.val('').focus();
+  $(this).removeClass('visible');
+});
+
 // Поиск
 $(document).on('submit', '#news-search-form', function(e) {
   e.preventDefault();
