@@ -1,0 +1,39 @@
+<?php
+global $arrFilter;
+$searchQuery = isset($_GET["q"]) ? trim($_GET["q"]) : "";
+$arrFilter = [];
+if ($searchQuery) {
+    $arrFilter = ["NAME" => "%" . $searchQuery . "%"];
+}
+?>
+
+<div class="news-wrapper">
+    <div class="new-container">
+        <!-- лоадер -->
+        <div id="news-loader" class="d-none">
+            <div class="news-loader-overlay">
+                <div class="spinner-border text-danger" role="status">
+                    <span class="visually-hidden">Загрузка...</span>
+                </div>
+            </div>
+        </div>
+
+        <?php $APPLICATION->IncludeComponent(
+            'bitrix:news.list',
+            'news.redesign',
+            [
+                'IBLOCK_TYPE' => 'news',
+                'IBLOCK_ID' => '48',
+                'NEWS_COUNT' => '4',
+                'FULL_PAGE' => 'Y',
+                'PAGER_SHOW' => 'Y',
+                'PAGER_TITLE' => 'новости',
+                'PAGER_SHOW_ALWAYS' => 'N',
+                'DISPLAY_DATE' => 'Y',
+                'SORT_BY1' => 'DATE_ACTIVE_FROM',
+                'SORT_ORDER1' => 'DESC',
+                'FILTER_NAME' => 'arrFilter',
+            ]
+        ); ?>
+    </div>
+</div>
