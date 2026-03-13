@@ -27,3 +27,9 @@
   opacity: 0.6;
   transition: all 0.5s;
 }
+
+.spinner-border.text-danger {
+  width: 48px;
+  height: 48px;
+  border-width: 4px;
+}
