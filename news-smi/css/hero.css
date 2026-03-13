@@ -1,0 +1,10 @@
+.banner {
+  background-color: #F0F0F0;
+  background-image: url(../pic/banner.avif);
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  height: 715px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 90px;
+}
