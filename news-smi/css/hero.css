@@ -20,3 +20,8 @@
 .banner__title {
   margin-bottom: 32px;
 }
+
+.banner__btn {
+  width: 100%;
+  max-width: 513px;
+}
