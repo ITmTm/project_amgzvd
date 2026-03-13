@@ -11,6 +11,16 @@ $(document).on('click', '.pagination-item', function(e) {
   loadNews(url);
 });
 
+// Поиск
+$(document).on('submit', '#news-search-form', function(e) {
+  e.preventDefault();
+  const query = $(this).find('input[name="q"]').val();
+  const url = '/news-smi/?' + (query ? 'q=' + encodeURIComponent(query) : '');
+
+  window.history.pushState({}, '', url);
+  loadNews(url, query);
+});
+
 // Показать/скрыть крестик
 $(document).on('input', '#news-search-form input[name="q"]', function(e) {
   const $clear = $(this).siblings('.input-clear');
@@ -38,15 +48,7 @@ $(document).ready(function () {
 })
 
 
-// Поиск
-$(document).on('submit', '#news-search-form', function(e) {
-  e.preventDefault();
-  const query = $(this).find('input[name="q"]').val();
-  const url = '/news-smi/?' + (query ? 'q=' + encodeURIComponent(query) : '');
 
-  window.history.pushState({}, '', url);
-  loadNews(url, query);
-});
 
 // Сброс
 $(document).on('click', '.btn-brand-red-clean', function(e) {
