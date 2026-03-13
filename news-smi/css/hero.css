@@ -16,3 +16,7 @@
 .banner__text {
   max-width: 572px;
 }
+
+.banner__title {
+  margin-bottom: 32px;
+}
