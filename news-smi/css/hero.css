@@ -12,3 +12,7 @@
 .banner__image {
   display: none;
 }
+
+.banner__text {
+  max-width: 572px;
+}
