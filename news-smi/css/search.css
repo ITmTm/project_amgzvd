@@ -34,3 +34,7 @@
   cursor: default;
   pointer-events: none;
 }
+
+.input-clear:hover {
+  color: #D81E34;
+}
