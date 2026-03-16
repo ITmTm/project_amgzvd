@@ -38,3 +38,8 @@
 .input-clear:hover {
   color: #D81E34;
 }
+
+.input-clear.visible {
+  opacity: 1;
+  visibility: visible;
+}
