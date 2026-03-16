@@ -21,3 +21,16 @@
   visibility: hidden;
   transition: opacity 0.3s ease, visibility 0.3s ease;
 }
+
+.input-clear::after {
+  content: '';
+  position: absolute;
+  right: -5px;
+  height: 25px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 1px;
+  background: #bfc0c78c;
+  cursor: default;
+  pointer-events: none;
+}
