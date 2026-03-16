@@ -17,3 +17,9 @@
   border-color: var(--amega-primary-color);
   color: var(--amega-dark-color-active);
 }
+
+.pagination-item.active {
+  background-color: var(--amega-primary-color);
+  border-color: #c2185b;
+  color: var(--amega-background-color);
+}
