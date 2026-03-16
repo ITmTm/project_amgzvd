@@ -12,3 +12,8 @@
   font-weight: 500;
   transition: all 0.2s;
 }
+
+.pagination-item:hover {
+  border-color: var(--amega-primary-color);
+  color: var(--amega-dark-color-active);
+}
