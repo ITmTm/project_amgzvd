@@ -1,3 +1,8 @@
 .news-search {
   gap: 40px;
 }
+
+.news-wrapper--search {
+  padding-top: 0;
+  padding-bottom: 0;
+}
