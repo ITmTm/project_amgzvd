@@ -23,3 +23,8 @@
   border-color: #c2185b;
   color: var(--amega-background-color);
 }
+
+.pagination-item.disabled {
+  opacity: 0.4;
+  pointer-events: none;
+}
