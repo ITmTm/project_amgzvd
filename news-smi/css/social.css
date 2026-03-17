@@ -1,3 +1,7 @@
 .news-social {
   margin-bottom: 140px;
 }
+
+.tab-body.active {
+  display: block;
+}
