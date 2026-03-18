@@ -24,3 +24,11 @@ $(document).on('submit', '#news-search-form', function(e) {
 
 
 // Показать/скрыть крестик
+$(document).on('input', '#news-search-form input[name="q"]', function(e) {
+  const $clear = $(this).siblings('.input-clear');
+  if ($(this).val().length > 0) {
+    $clear.addClass('visible');
+  } else {
+    $clear.removeClass('visible');
+  }
+});
