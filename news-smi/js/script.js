@@ -32,3 +32,5 @@ $(document).on('input', '#news-search-form input[name="q"]', function(e) {
     $clear.removeClass('visible');
   }
 });
+
+// Клик по крестику - очистить поле
