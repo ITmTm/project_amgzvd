@@ -12,3 +12,11 @@ $(document).on('click', '.pagination-item', function(e) {
 });
 
 // Поиск
+$(document).on('submit', '#news-search-form', function(e) {
+  e.preventDefault();
+  const query = $(this).find('input[name="q"]').val();
+  const url = '/news-smi/?' + (query ? 'q=' + encodeURIComponent(query) : '');
+
+  
+  loadNews(url, query);
+});
