@@ -45,6 +45,6 @@ $(document).on('click', '.input-clear', function(e) {
 $(document).ready(function () {
   const $input = $('#news-search-form input[name="q"]');
   if ($input.val().length > 0) {
-    
+    $input.siblings('.input-clear').addClass('visible');
   }
 })
