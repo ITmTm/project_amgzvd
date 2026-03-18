@@ -10,3 +10,5 @@ $(document).on('click', '.pagination-item', function(e) {
 
   loadNews(url);
 });
+
+// Поиск
