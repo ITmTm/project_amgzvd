@@ -17,6 +17,6 @@ $(document).on('submit', '#news-search-form', function(e) {
   const query = $(this).find('input[name="q"]').val();
   const url = '/news-smi/?' + (query ? 'q=' + encodeURIComponent(query) : '');
 
-  
+  window.history.pushState({}, '', url);
   loadNews(url, query);
 });
