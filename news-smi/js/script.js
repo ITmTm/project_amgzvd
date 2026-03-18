@@ -11,6 +11,7 @@ $(document).on('click', '.pagination-item', function(e) {
   loadNews(url);
 });
 
+
 // Поиск
 $(document).on('submit', '#news-search-form', function(e) {
   e.preventDefault();
@@ -20,3 +21,6 @@ $(document).on('submit', '#news-search-form', function(e) {
   window.history.pushState({}, '', url);
   loadNews(url, query);
 });
+
+
+// Показать/скрыть крестик
