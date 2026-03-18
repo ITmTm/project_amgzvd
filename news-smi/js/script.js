@@ -39,3 +39,6 @@ $(document).on('click', '.input-clear', function(e) {
   $input.val('').focus();
   $(this).removeClass('visible');
 });
+
+
+// Проверка при загрузке, есть ли значения
