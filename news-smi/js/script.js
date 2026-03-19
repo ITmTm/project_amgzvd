@@ -83,6 +83,9 @@ function loadNews(url, query) {
       if (query) {
         $('input[name="q"]').val(query);
       }
+      error: function() {
+        $('#news-loader').addClass('d-none');
+      }
     },
   });
 }
