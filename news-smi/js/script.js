@@ -80,6 +80,9 @@ function loadNews(url, query) {
         $('.news-content').html(newContent);
         $('#news-loader').addClass('d-none');
       }
+      if (query) {
+        $('input[name="q"]').val(query);
+      }
     },
   });
 }
