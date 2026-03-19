@@ -48,3 +48,10 @@ $(document).ready(function () {
     $input.siblings('.input-clear').addClass('visible');
   }
 })
+
+
+
+
+// Сброс
+
+}
