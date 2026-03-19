@@ -76,6 +76,10 @@ function loadNews(url, query) {
       if (!newContent) {
         newContent = $response.filter('.news-content').html();
       }
+      if (newContent) {
+        $('.news-content').html(newContent);
+        $('#news-loader').addClass('d-none');
+      }
     },
   });
 }
