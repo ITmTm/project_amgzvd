@@ -53,5 +53,13 @@ $(document).ready(function () {
 
 
 // Сброс
+$(document).on('click', '.btn-brand-red-clean', function(e) {
+  e.preventDefault();
+  const url = $(this).attr('href');
+  $('input[name="q"]').val('');
+  $('.input-clear').removeClass('visible');
+  window.history.pushState({}, '', url);
+  loadNews(url);
+});
 
 }
