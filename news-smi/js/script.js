@@ -64,4 +64,18 @@ $(document).on('click', '.btn-brand-red-clean', function(e) {
 
 
 // Общая функция загрузки
+function loadNews(url, query) {
+  $('#news-loader').removeClass('d-none');
+
+  $.ajax({
+    url: url,
+    type: 'GET',
+    success: function(response) {
+      const $response = $(response);
+      let newContent = $response.find('.news-content').html();
+      if (!newContent) {
+        newContent = $response.filter('.news-content').html();
+      }
+    },
+  });
 }
