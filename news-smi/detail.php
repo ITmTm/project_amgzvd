@@ -8,7 +8,7 @@ $APPLICATION->SetPageProperty("title", "Завод пластиковых око
 
     function getXMLElement($CODE){
         $FILTER_MATERIAL = Array('GLOBAL_ACTIVE'=>'Y', 'CODE'=>$CODE);
-
+        $SELECT_MATERIAL = Array("ID");
     }
 
 
