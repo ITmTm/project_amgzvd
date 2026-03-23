@@ -12,7 +12,9 @@ $APPLICATION->SetPageProperty("title", "Завод пластиковых око
         $db_list = CIBlockElement::GetList(array(), $FILTER_MATERIAL, false, false, $SELECT_MATERIAL);
         $response = array();
         while($ar_result = $db_list->GetNext())
-
+        {
+            $response[] = $ar_result;
+        }
     }
 
 
