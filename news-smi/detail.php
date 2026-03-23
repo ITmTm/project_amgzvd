@@ -10,6 +10,7 @@ $APPLICATION->SetPageProperty("title", "Завод пластиковых око
         $FILTER_MATERIAL = Array('GLOBAL_ACTIVE'=>'Y', 'CODE'=>$CODE);
         $SELECT_MATERIAL = Array("ID");
         $db_list = CIBlockElement::GetList(array(), $FILTER_MATERIAL, false, false, $SELECT_MATERIAL);
+        $response = array();
 
     }
 
