@@ -7,6 +7,7 @@ $APPLICATION->SetPageProperty("keywords", "");
 $APPLICATION->SetPageProperty("title", "Завод пластиковых окон в " . $SEO_CITY . ", купить окна от производителя")
 
     function getXMLElement($CODE){
+        $FILTER_MATERIAL = Array('GLOBAL_ACTIVE'=>'Y', 'CODE'=>$CODE);
 
     }
 
