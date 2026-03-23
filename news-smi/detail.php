@@ -17,6 +17,7 @@ $APPLICATION->SetPageProperty("title", "Завод пластиковых око
         }
         return $response[0];
     }
+    $res = getXMLElement($_REQUEST["CODE"]);
 
 
 
