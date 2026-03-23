@@ -6,13 +6,13 @@ $APPLICATION->SetPageProperty("description", "Амега - завод пласт
 $APPLICATION->SetPageProperty("keywords", "");
 $APPLICATION->SetPageProperty("title", "Завод пластиковых окон в " . $SEO_CITY . ", купить окна от производителя")
 
-    function getXMLElement($CODE){
-        $FILTER_MATERIAL = Array('GLOBAL_ACTIVE'=>'Y', 'CODE'=>$CODE);
-        $SELECT_MATERIAL = Array("ID");
+    function getXMLElement($CODE)
+    {
+        $FILTER_MATERIAL = array('GLOBAL_ACTIVE' => 'Y', 'CODE' => $CODE);
+        $SELECT_MATERIAL = array("ID");
         $db_list = CIBlockElement::GetList(array(), $FILTER_MATERIAL, false, false, $SELECT_MATERIAL);
         $response = array();
-        while($ar_result = $db_list->GetNext())
-        {
+        while ($ar_result = $db_list->GetNext()) {
             $response[] = $ar_result;
         }
         return $response[0];
