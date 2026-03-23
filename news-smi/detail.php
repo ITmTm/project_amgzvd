@@ -11,6 +11,7 @@ $APPLICATION->SetPageProperty("title", "Завод пластиковых око
         $SELECT_MATERIAL = Array("ID");
         $db_list = CIBlockElement::GetList(array(), $FILTER_MATERIAL, false, false, $SELECT_MATERIAL);
         $response = array();
+        while($ar_result = $db_list->GetNext())
 
     }
 
