@@ -15,6 +15,7 @@ $APPLICATION->SetPageProperty("title", "Завод пластиковых око
         {
             $response[] = $ar_result;
         }
+        return $response[0];
     }
 
 
