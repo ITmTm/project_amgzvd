@@ -1,55 +1,10 @@
-# Directory
-.idea
-.well-known
-/bitrix
-/upload
-/.vscode
-node_modules
-**/logs
-
-# Old site template
-/local/templates/amegazavod
-
-# Files
-
-*.htaccess
-*.htaccess*
-*.htpasswd
-*.txt
-*.html
-*.log
-*.xml
-*.pdf
-*.tar
-*.gz
-*.zip
-*.rar
-*.tgz
-*.xls
-*.xlsx
-*.doc
-*.docx
-*.csv
-*.mp4
-*.mp3
-*.webm
-
-# images
-*.png
-*.jpg
-*.jpeg
-*.webp
-!local/templates/amegazavod_new/img/**/*.png
-!local/templates/amegazavod_new/img/**/*.jpg
-!local/templates/amegazavod_new/img/**/*.jpeg
-!local/templates/amegazavod_new/img/**/*.webp
-!local/components/**/*.png
-!local/components/**/*.jpg
-!local/components/**/*.jpeg
-!local/components/**/*.webp
-
-# Other
-Thumbs.db
-.DS_Store
-._.DS_Store
-web.config
+/node_modules
+/app/*.html
+/app/images/*
+!/app/images/src
+package-lock.json
+/app/js/main.min.js
+/app/css
+/dist/*
+!/dist/.gitkeep
+.idea/
