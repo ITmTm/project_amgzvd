@@ -22,6 +22,9 @@ $APPLICATION->SetPageProperty("title", "Завод пластиковых око
 $APPLICATION->IncludeComponent(
     "bitrix:news.detail",
     "news-smi", // шаблон
+    array(
+
+    ),
 );
 
 require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/footer.php");
