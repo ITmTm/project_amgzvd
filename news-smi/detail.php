@@ -33,6 +33,7 @@ $APPLICATION->IncludeComponent(
         "SET_TITLE" => "Y",
         "ADD_ELEMENT_CHAIN" => "Y"
     ),
+    false
 );
 
 require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/footer.php");
