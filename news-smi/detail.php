@@ -32,7 +32,6 @@ $APPLICATION->IncludeComponent(
         "SET_META_DESCRIPTION" => "Y",
         "SET_TITLE" => "Y",
         "ADD_ELEMENT_CHAIN" => "Y"
-
     ),
 );
 
