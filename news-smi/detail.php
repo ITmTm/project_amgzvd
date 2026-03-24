@@ -23,7 +23,7 @@ $APPLICATION->IncludeComponent(
     "bitrix:news.detail",
     "news-smi", // шаблон
     array(
-
+        "IBLOCK_ID" => "48",  // ID информационного блока
     ),
 );
 
