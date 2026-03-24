@@ -19,6 +19,8 @@ $APPLICATION->SetPageProperty("title", "Завод пластиковых око
     }
     $res = getXMLElement($_REQUEST["CODE"]);
 
+$APPLICATION->IncludeComponent(
 
+);
 
 require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/footer.php");
