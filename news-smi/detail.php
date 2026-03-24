@@ -25,6 +25,7 @@ $APPLICATION->IncludeComponent(
     array(
         "IBLOCK_ID" => "48",  // ID информационного блока
         "IBLOCK_TYPE" => "news",  // тип информационного блока
+        "ELEMENT_ID" => $res["ID"],  // параметр передаваемой страницы
     ),
 );
 
