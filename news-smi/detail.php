@@ -31,6 +31,7 @@ $APPLICATION->IncludeComponent(
         "SET_BROWSER_TITLE" => "Y",
         "SET_META_DESCRIPTION" => "Y",
         "SET_TITLE" => "Y",
+        "ADD_ELEMENT_CHAIN" => "Y"
 
     ),
 );
