@@ -24,6 +24,7 @@ $APPLICATION->IncludeComponent(
     "news-smi", // шаблон
     array(
         "IBLOCK_ID" => "48",  // ID информационного блока
+        "IBLOCK_TYPE" => "news",  // тип информационного блока
     ),
 );
 
