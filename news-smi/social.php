@@ -8,6 +8,10 @@
             </div>
 
             <div class="social-links">
+                <a href="https://vkvideo.ru/@amegazavod1/?roistat_visit=2523465" class="subtitle-h3" target="_blank">
+                    <img src="/local/templates/amegazavod_new/img/vk-new.svg" alt="VK Video">
+                    VK видео
+                </a>
 
             </div>
         </div>
