@@ -16,7 +16,10 @@
                     <img src="/local/templates/amegazavod_new/img/vk-group.svg" alt="VK">
                     Вконтакте
                 </a>
-   
+                <a href="https://t.me/amega_zavod/?roistat_visit=2523465" class="subtitle-h3" target="_blank">
+                    <img src="/local/templates/amegazavod_new/img/tg-new.svg" alt="Tg">
+                    Телеграм
+                </a>
             </div>
         </div>
     </div>
