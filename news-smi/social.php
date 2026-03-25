@@ -12,7 +12,11 @@
                     <img src="/local/templates/amegazavod_new/img/vk-new.svg" alt="VK Video">
                     VK видео
                 </a>
-
+                <a href="https://vk.com/amegazavod1/?roistat_visit=2523465" class="subtitle-h3" target="_blank">
+                    <img src="/local/templates/amegazavod_new/img/vk-group.svg" alt="VK">
+                    Вконтакте
+                </a>
+   
             </div>
         </div>
     </div>
