@@ -12,7 +12,7 @@
                 </div>
                 <div class="col-md-auto col-12 text-end">
                     <button type="submit" class="btn btn-brand-red">Найти</button>
-                   
+                    <a href="/news-smi/" class="btn btn-brand-red-clean">Сбросить</a>
                 </div>
             </div>
         </form>
