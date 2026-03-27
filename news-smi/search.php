@@ -5,7 +5,8 @@
             <div class="news-search row align-items-center w-100 g-0">
                 <div class="col mb-md-0 mb-3">
                     <div class="input-search w-100">
-              
+                        <input placeholder="Поиск" type="search" class="w-100" name="q"
+                 
                     </div>
                 </div>
 
