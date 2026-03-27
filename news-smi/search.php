@@ -4,7 +4,9 @@
         <form class="w-100" id="news-search-form">
             <div class="news-search row align-items-center w-100 g-0">
                 <div class="col mb-md-0 mb-3">
-          
+                    <div class="input-search w-100">
+              
+                    </div>
                 </div>
 
             </div>
