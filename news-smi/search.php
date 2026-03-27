@@ -7,7 +7,7 @@
                     <div class="input-search w-100">
                         <input placeholder="Поиск" type="search" class="w-100" name="q"
                                value="<?= $_GET["q"] ?>"
-                            
+                               aria-label="Поиск по новостям">
                     </div>
                 </div>
 
