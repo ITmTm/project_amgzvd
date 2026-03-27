@@ -6,7 +6,8 @@
                 <div class="col mb-md-0 mb-3">
                     <div class="input-search w-100">
                         <input placeholder="Поиск" type="search" class="w-100" name="q"
-                 
+                               value="<?= $_GET["q"] ?>"
+                            
                     </div>
                 </div>
 
