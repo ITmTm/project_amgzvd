@@ -10,7 +10,9 @@
                                aria-label="Поиск по новостям">
                     </div>
                 </div>
+                <div class="col-md-auto col-12 text-end">
 
+                </div>
             </div>
         </form>
     </div>
