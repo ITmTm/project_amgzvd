@@ -11,7 +11,9 @@ if ($searchQuery) {
     <div class="new-container">
         <!-- лоадер -->
         <div id="news-loader" class="d-none">
-    
+            <div class="news-loader-overlay">
+   
+            </div>
         </div>
 
 
