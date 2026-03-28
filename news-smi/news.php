@@ -23,8 +23,8 @@ if ($searchQuery) {
             'news.redesign',
             [
                 'IBLOCK_TYPE' => 'news',
+                'IBLOCK_ID' => '48',
 
-            ]
         ); ?>
     </div>
 </div>
