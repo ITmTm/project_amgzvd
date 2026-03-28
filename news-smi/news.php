@@ -19,6 +19,8 @@ if ($searchQuery) {
         </div>
 
         <?php $APPLICATION->IncludeComponent(
-     ?>
+            'bitrix:news.list',
+
+        ); ?>
     </div>
 </div>
