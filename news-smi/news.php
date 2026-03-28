@@ -26,8 +26,8 @@ if ($searchQuery) {
                 'IBLOCK_ID' => '48',
                 'NEWS_COUNT' => '4',
                 'FULL_PAGE' => 'Y',
+                'PAGER_SHOW' => 'Y',
 
-            ]
         ); ?>
     </div>
 </div>
