@@ -20,7 +20,8 @@ if ($searchQuery) {
 
         <?php $APPLICATION->IncludeComponent(
             'bitrix:news.list',
-
+            'news.redesign',
+    
         ); ?>
     </div>
 </div>
