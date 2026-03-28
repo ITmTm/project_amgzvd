@@ -18,6 +18,7 @@ if ($searchQuery) {
             </div>
         </div>
 
-
+        <?php $APPLICATION->IncludeComponent(
+     ?>
     </div>
 </div>
