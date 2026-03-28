@@ -9,6 +9,11 @@ if ($searchQuery) {
 
 <div class="news-wrapper">
     <div class="new-container">
+        <!-- лоадер -->
+        <div id="news-loader" class="d-none">
+    
+        </div>
+
 
     </div>
 </div>
