@@ -21,7 +21,10 @@ if ($searchQuery) {
         <?php $APPLICATION->IncludeComponent(
             'bitrix:news.list',
             'news.redesign',
-    
+            [
+                'IBLOCK_TYPE' => 'news',
+
+            ]
         ); ?>
     </div>
 </div>
