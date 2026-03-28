@@ -24,7 +24,9 @@ if ($searchQuery) {
             [
                 'IBLOCK_TYPE' => 'news',
                 'IBLOCK_ID' => '48',
+                'NEWS_COUNT' => '4',
 
+            ]
         ); ?>
     </div>
 </div>
