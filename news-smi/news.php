@@ -13,7 +13,7 @@ if ($searchQuery) {
         <div id="news-loader" class="d-none">
             <div class="news-loader-overlay">
                 <div class="spinner-border text-danger" role="status">
-                    
+                    <span class="visually-hidden">Загрузка...</span>
                 </div>
             </div>
         </div>
