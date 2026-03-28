@@ -31,7 +31,8 @@ if ($searchQuery) {
                 'PAGER_SHOW_ALWAYS' => 'N',
                 'DISPLAY_DATE' => 'Y',
                 'SORT_BY1' => 'DATE_ACTIVE_FROM',
-  
+                'SORT_ORDER1' => 'DESC',
+
             ]
         ); ?>
     </div>
