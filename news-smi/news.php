@@ -32,7 +32,7 @@ if ($searchQuery) {
                 'DISPLAY_DATE' => 'Y',
                 'SORT_BY1' => 'DATE_ACTIVE_FROM',
                 'SORT_ORDER1' => 'DESC',
-
+                'FILTER_NAME' => 'arrFilter',
             ]
         ); ?>
     </div>
