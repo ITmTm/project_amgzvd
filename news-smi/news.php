@@ -8,5 +8,7 @@ if ($searchQuery) {
 ?>
 
 <div class="news-wrapper">
+    <div class="new-container">
 
+    </div>
 </div>
