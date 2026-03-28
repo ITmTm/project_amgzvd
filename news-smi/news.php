@@ -29,6 +29,7 @@ if ($searchQuery) {
                 'PAGER_SHOW' => 'Y',
                 'PAGER_TITLE' => 'новости',
                 'PAGER_SHOW_ALWAYS' => 'N',
+                'DISPLAY_DATE' => 'Y',
 
             ]
         ); ?>
