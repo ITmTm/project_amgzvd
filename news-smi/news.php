@@ -27,7 +27,9 @@ if ($searchQuery) {
                 'NEWS_COUNT' => '4',
                 'FULL_PAGE' => 'Y',
                 'PAGER_SHOW' => 'Y',
+                'PAGER_TITLE' => 'новости',
 
+            ]
         ); ?>
     </div>
 </div>
