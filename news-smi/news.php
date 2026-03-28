@@ -6,3 +6,7 @@ if ($searchQuery) {
     $arrFilter = ["NAME" => "%" . $searchQuery . "%"];
 }
 ?>
+
+<div class="news-wrapper">
+
+</div>
