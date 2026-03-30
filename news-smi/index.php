@@ -28,3 +28,5 @@ require("social.php");
 
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="css/media.css">
+
+<? require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");
