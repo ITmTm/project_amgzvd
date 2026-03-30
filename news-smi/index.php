@@ -25,3 +25,5 @@ require("search.php");
 require("news.php");
 require("social.php");
 ?>
+
+<link rel="stylesheet" href="css/style.css">
