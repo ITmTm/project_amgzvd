@@ -27,3 +27,4 @@ require("social.php");
 ?>
 
 <link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/media.css">
