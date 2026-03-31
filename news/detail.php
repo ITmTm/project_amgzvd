@@ -13,6 +13,7 @@ $APPLICATION->IncludeComponent(
     "new", // шаблон
     Array(
         "IBLOCK_ID" => "1",  // ID информационного блока
+        "IBLOCK_TYPE" => "news",  // тип информационного блока
 
     ),
     false
