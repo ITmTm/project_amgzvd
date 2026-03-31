@@ -17,6 +17,7 @@ $APPLICATION->IncludeComponent(
         "ELEMENT_ID" => $_REQUEST["ELEMENT_ID"],  // параметр передаваемой страницы
         "INCLUDE_IBLOCK_INTO_CHAIN" => "N",
         "ADD_SECTIONS_CHAIN" => "N",
+        "SET_BROWSER_TITLE" => "Y",
 
     ),
     false
