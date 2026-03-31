@@ -19,6 +19,7 @@ $APPLICATION->IncludeComponent(
         "ADD_SECTIONS_CHAIN" => "N",
         "SET_BROWSER_TITLE" => "Y",
         "SET_META_DESCRIPTION" => "Y",
+        "SET_TITLE" => "Y",
 
     ),
     false
