@@ -12,6 +12,8 @@ $APPLICATION->IncludeComponent(
     "bitrix:news.detail",
     "new", // шаблон
     Array(
+        "IBLOCK_ID" => "1",  // ID информационного блока
+
     ),
     false
 );
