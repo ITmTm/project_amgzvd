@@ -10,6 +10,7 @@ $APPLICATION->SetPageProperty("title", "Завод пластиковых око
 <?
 $APPLICATION->IncludeComponent(
     "bitrix:news.detail",
+    "new", // шаблон
 
 );
 ?>
