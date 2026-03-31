@@ -7,3 +7,7 @@ $APPLICATION->SetPageProperty("keywords", "");
 $APPLICATION->SetPageProperty("title", "Завод пластиковых окон в ".$SEO_CITY.", купить окна от производителя");
 
 ?>
+<?
+
+?>
+<? require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");
