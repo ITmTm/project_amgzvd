@@ -8,6 +8,9 @@ $APPLICATION->SetPageProperty("title", "Завод пластиковых око
 
 ?>
 <?
+$APPLICATION->IncludeComponent(
+    "bitrix:news.detail",
 
+);
 ?>
 <? require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");
