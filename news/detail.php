@@ -15,6 +15,7 @@ $APPLICATION->IncludeComponent(
         "IBLOCK_ID" => "1",  // ID информационного блока
         "IBLOCK_TYPE" => "news",  // тип информационного блока
         "ELEMENT_ID" => $_REQUEST["ELEMENT_ID"],  // параметр передаваемой страницы
+        "INCLUDE_IBLOCK_INTO_CHAIN" => "N",
 
     ),
     false
