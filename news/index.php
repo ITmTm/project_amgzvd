@@ -11,3 +11,4 @@ $breadcrumbs = [
         "title"=> "Главная",
         "url"=> "/",
     ),
+    array(
