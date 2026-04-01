@@ -6,3 +6,5 @@ $APPLICATION->SetPageProperty("description", " Новости и события 
 $APPLICATION->SetPageProperty("keywords", "");
 $APPLICATION->SetPageProperty("title", "Завод пластиковых окон в ".$SEO_CITY." | Новости ");
 
+$breadcrumbs = [
+    array(
