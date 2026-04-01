@@ -9,3 +9,5 @@ $APPLICATION->SetPageProperty("title", "Завод пластиковых око
 $breadcrumbs = [
     array(
         "title"=> "Главная",
+        "url"=> "/",
+    ),
