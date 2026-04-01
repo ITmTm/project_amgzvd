@@ -18,3 +18,4 @@ $breadcrumbs = [
 ];
 require($_SERVER["DOCUMENT_ROOT"] . "/parts/breadcrumbs.php");
 require("search.php");
+require("news.php");?>
