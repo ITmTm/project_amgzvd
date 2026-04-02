@@ -4,7 +4,11 @@
         global $arrFilter;
         $query = "";
         $page = "1";
+        if (isset($_GET["q"])) {
+            $query = $_GET["q"];
+        }
 
+                    </div>
                 </div>
             <? endwhile; ?>
         </div>
