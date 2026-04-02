@@ -15,7 +15,9 @@
         );
         $PageSize = 10;
         $filter = array("=IBLOCK_ID" => 1, "NAME" => "%" . $query . "%", "ACTIVE" => "Y");
+        $newsList = CIBlockElement::GetList(
 
+                                <a href="<?= $newsItem["DETAIL_PAGE_URL"] ?>">
                                     Читать польностью
                                 </a>
                             </div>
