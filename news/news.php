@@ -21,7 +21,9 @@
             false,
             [   'nTopCount' => 0,
                 'iNumPage' => $page,
+                'nPageSize' => $PageSize,],
 
+                                        <?= $newsItem["PREVIEW_TEXT"] ?>
                                     </div>
                                 <? endif ?>
                                 <a href="<?= $newsItem["DETAIL_PAGE_URL"] ?>">
