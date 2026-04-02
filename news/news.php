@@ -10,7 +10,11 @@
         if (isset($_GET["page"])) {
             $page = $_GET["page"];
         }
+        $arrFilter = array(
+            array("NAME" => "%" . $query . "%")
+        );
 
+                            </div>
                         </div>
                     </div>
                 </div>
