@@ -22,7 +22,10 @@
             [   'nTopCount' => 0,
                 'iNumPage' => $page,
                 'nPageSize' => $PageSize,],
+            ['DETAIL_PAGE_URL', 'PREVIEW_PICTURE', 'NAME', "DATE_ACTIVE_FROM", "PREVIEW_TEXT"]
+        ); ?>
 
+                                    <div class="mb-3">
                                         <?= $newsItem["PREVIEW_TEXT"] ?>
                                     </div>
                                 <? endif ?>
