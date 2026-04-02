@@ -3,7 +3,10 @@
         <?
         global $arrFilter;
         $query = "";
+        $page = "1";
 
+                </div>
+            <? endwhile; ?>
         </div>
         <? require_once($_SERVER["DOCUMENT_ROOT"] . "/parts/pagination.php");?>
     </div>
