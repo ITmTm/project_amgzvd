@@ -13,7 +13,9 @@
         $arrFilter = array(
             array("NAME" => "%" . $query . "%")
         );
+        $PageSize = 10;
 
+                                </a>
                             </div>
                         </div>
                     </div>
