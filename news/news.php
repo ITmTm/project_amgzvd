@@ -14,7 +14,9 @@
             array("NAME" => "%" . $query . "%")
         );
         $PageSize = 10;
+        $filter = array("=IBLOCK_ID" => 1, "NAME" => "%" . $query . "%", "ACTIVE" => "Y");
 
+                                    Читать польностью
                                 </a>
                             </div>
                         </div>
