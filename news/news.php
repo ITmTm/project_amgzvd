@@ -17,7 +17,12 @@
         $filter = array("=IBLOCK_ID" => 1, "NAME" => "%" . $query . "%", "ACTIVE" => "Y");
         $newsList = CIBlockElement::GetList(
             array("DATE_ACTIVE_FROM" => "DESC"),
+            $filter,
+            false,
+            [   'nTopCount' => 0,
+                'iNumPage' => $page,
 
+                                    </div>
                                 <? endif ?>
                                 <a href="<?= $newsItem["DETAIL_PAGE_URL"] ?>">
                                     Читать польностью
