@@ -7,7 +7,11 @@
         if (isset($_GET["q"])) {
             $query = $_GET["q"];
         }
+        if (isset($_GET["page"])) {
+            $page = $_GET["page"];
+        }
 
+                        </div>
                     </div>
                 </div>
             <? endwhile; ?>
