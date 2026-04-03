@@ -29,7 +29,9 @@
             <? while ($newsItem = $newsList->GetNext()): ?>
                 <div class="col-12 mb-5">
                     <div class="row">
-             
+                        <div class="col-4">
+ 
+                            </div>
                         </div>
                     </div>
                 </div>
