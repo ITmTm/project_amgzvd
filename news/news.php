@@ -30,7 +30,9 @@
                 <div class="col-12 mb-5">
                     <div class="row">
                         <div class="col-4">
- 
+                            <a href="<?= $newsItem["DETAIL_PAGE_URL"] ?>" class="mb-3">
+         
+                                </a>
                             </div>
                         </div>
                     </div>
