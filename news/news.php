@@ -35,7 +35,9 @@
                                      alt="<?= $newsItem["NAME"] ?>" class="w-100"/>
                             </a>
                         </div>
-
+                        <div class="col">
+         
+                                        <?= $newsItem["PREVIEW_TEXT"] ?>
                                     </div>
                                 <? endif ?>
                                 <a href="<?= $newsItem["DETAIL_PAGE_URL"] ?>">
