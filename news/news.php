@@ -27,7 +27,10 @@
 
         <div class="row justify-content-between">
             <? while ($newsItem = $newsList->GetNext()): ?>
-
+                <div class="col-12 mb-5">
+                    <div class="row">
+             
+                        </div>
                     </div>
                 </div>
             <? endwhile; ?>
