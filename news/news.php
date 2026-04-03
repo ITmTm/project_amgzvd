@@ -38,7 +38,9 @@
                         <div class="col">
                             <div class="d-flex flex-column">
                                 <div class="d-flex align-items-center mb-3">
-           
+                                    <img src="/imgs/icons/clock.svg" alt="Дата">
+
+                                <h2 class="news-title_h2 mb-3"><?= $newsItem["NAME"] ?></h2>
                                 <? if ($newsItem["PREVIEW_TEXT"]): ?>
                                     <div class="mb-3">
                                         <?= $newsItem["PREVIEW_TEXT"] ?>
