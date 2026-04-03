@@ -39,7 +39,7 @@
                             <div class="d-flex flex-column">
                                 <div class="d-flex align-items-center mb-3">
                                     <img src="/imgs/icons/clock.svg" alt="Дата">
-                              
+                                    <span class="ms-2"><?= $newsItem["DATE_ACTIVE_FROM"] ?></span>
                                 </div>
                                 <h2 class="news-title_h2 mb-3"><?= $newsItem["NAME"] ?></h2>
                                 <? if ($newsItem["PREVIEW_TEXT"]): ?>
