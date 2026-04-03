@@ -33,7 +33,9 @@
                             <a href="<?= $newsItem["DETAIL_PAGE_URL"] ?>" class="mb-3">
                                 <img src="<?= CFile::GetPath($newsItem["PREVIEW_PICTURE"]) ?>"
                                      alt="<?= $newsItem["NAME"] ?>" class="w-100"/>
-         
+                            </a>
+                
+                                <? endif ?>
                                 <a href="<?= $newsItem["DETAIL_PAGE_URL"] ?>">
                                     Читать польностью
                                 </a>
