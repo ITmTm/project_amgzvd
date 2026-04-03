@@ -25,15 +25,9 @@
             ['DETAIL_PAGE_URL', 'PREVIEW_PICTURE', 'NAME', "DATE_ACTIVE_FROM", "PREVIEW_TEXT"]
         ); ?>
 
-                                    <div class="mb-3">
-                                        <?= $newsItem["PREVIEW_TEXT"] ?>
-                                    </div>
-                                <? endif ?>
-                                <a href="<?= $newsItem["DETAIL_PAGE_URL"] ?>">
-                                    Читать польностью
-                                </a>
-                            </div>
-                        </div>
+        <div class="row justify-content-between">
+            <? while ($newsItem = $newsList->GetNext()): ?>
+
                     </div>
                 </div>
             <? endwhile; ?>
