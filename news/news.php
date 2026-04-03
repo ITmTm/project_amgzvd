@@ -37,7 +37,9 @@
                         </div>
                         <div class="col">
                             <div class="d-flex flex-column">
-      
+                                <div class="d-flex align-items-center mb-3">
+           
+                                <? if ($newsItem["PREVIEW_TEXT"]): ?>
                                     <div class="mb-3">
                                         <?= $newsItem["PREVIEW_TEXT"] ?>
                                     </div>
