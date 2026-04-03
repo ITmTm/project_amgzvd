@@ -31,7 +31,9 @@
                     <div class="row">
                         <div class="col-4">
                             <a href="<?= $newsItem["DETAIL_PAGE_URL"] ?>" class="mb-3">
-         
+                                <img src="<?= CFile::GetPath($newsItem["PREVIEW_PICTURE"]) ?>"
+
+                                    Читать польностью
                                 </a>
                             </div>
                         </div>
