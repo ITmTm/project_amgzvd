@@ -36,7 +36,9 @@
                             </a>
                         </div>
                         <div class="col">
-         
+                            <div class="d-flex flex-column">
+      
+                                    <div class="mb-3">
                                         <?= $newsItem["PREVIEW_TEXT"] ?>
                                     </div>
                                 <? endif ?>
