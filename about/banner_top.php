@@ -5,6 +5,7 @@
       <h1 class="banner_top_title" style="color:white">О КОМПАНИИ</h1>
       <p class="banner_top_description">Компания «Амега» - это завод по производству светопрозрачных конструкций из ПВХ и алюминия в России. Завод реализуют продукцию на дилерском рынке и рынке корпоративной застройки в 8 регионах</p>
 
+    </div>
   </div>
     <?php
     $videoSrc = '/assets/video/about-company.mp4';
