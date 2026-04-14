@@ -7,7 +7,7 @@
       <div class="d-flex btn_banner mb-sm-4 mb-0">
         <div class="btn btn-brand-red btn-danger px-4 d-flex align-items-center open-video">
           <span class="me-2">Смотреть видео</span>
-
+          <img src="/imgs/icons/arrows-right.svg" alt="">
         </div>
       </div>
     </div>
