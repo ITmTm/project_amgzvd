@@ -10,6 +10,7 @@
       </div>
       <div class="col-lg-4 col-12 order-lg-2 order-1">
         <img src="/about/img/1.png" alt="" class="w-100">
+      </div>
 
         <div>
           <div class="btn btn-danger btn-brand-red send_partner">Стать партнером <img src="/imgs/icons/arrows-right.svg"></div>
