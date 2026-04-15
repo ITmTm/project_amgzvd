@@ -22,7 +22,10 @@
         <div>
           <div class="btn btn-outline-danger btn-outline-brand-red sign_tour">Записаться на экскурсию на завод <img src="/imgs/icons/arrows-right-black.svg" alt=""></div>
         </div>
-             </div>
+      </div>
+
+            <a target="_blank" href="https://framer.ru/?utm_source=amegazavod&utm_medium=about&utm_campaign=technologies" class="btn btn-outline-brand-blue me-2">Перейти в сервис Framer <img src="/imgs/icons/arrows-right-black.svg" alt=""></a>
+          </div>
           <div class="d-flex col-auto">
             <a href="https://redirect.appmetrica.yandex.com/serve/964480543599132047" class="me-2"><img src="/imgs/app_store.png" alt=""></a>
             <a href="https://redirect.appmetrica.yandex.com/serve/964480543599132047"><img src="/imgs/google_play.png" alt=""></a>
