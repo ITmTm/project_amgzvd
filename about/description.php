@@ -25,7 +25,9 @@
       </div>
     </div>
     <div class="row g-3 align-items-center mb-4">
+      <div class="col-lg col-12 order-lg-1 order-2 d-flex flex-column">
 
+        <div class="mb-4">В 2020г. компания «Амега» запустила передовой IT-сервис Framer. Framer – личный кабинет дилера завода «Амега», который позволяет посчитать, оплатить, передать в производство заказ и регистрировать рекламации полностью онлайн.</div>
         <div class="d-flex align-items-center row row-cols-md-2 row-cols-1 g-3">
           <div class="col-auto">
             <a target="_blank" href="https://framer.ru/?utm_source=amegazavod&utm_medium=about&utm_campaign=technologies" class="btn btn-outline-brand-blue me-2">Перейти в сервис Framer <img src="/imgs/icons/arrows-right-black.svg" alt=""></a>
