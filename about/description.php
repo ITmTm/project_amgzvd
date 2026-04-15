@@ -16,7 +16,9 @@
       <div class="col-lg-4 col-12">
         <img src="/about/img/5.png" alt="" class="w-100">
       </div>
+      <div class="col-lg col-12 d-flex flex-column">
 
+      </div>
     </div>
     <div class="row g-3 align-items-center mb-4">
       <div class="col-lg col-12 order-lg-1 order-2 d-flex flex-column">
