@@ -17,7 +17,9 @@
         <img src="/about/img/5.png" alt="" class="w-100">
       </div>
       <div class="col-lg col-12 d-flex flex-column">
+        <h2 class="fs-3 fw-bold mb-4">Производство</h2>
 
+        </div>
       </div>
     </div>
     <div class="row g-3 align-items-center mb-4">
