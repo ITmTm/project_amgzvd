@@ -14,7 +14,9 @@
     </div>
     <div class="row g-3  align-items-center mb-4">
       <div class="col-lg-4 col-12">
+        <img src="/about/img/5.png" alt="" class="w-100">
 
+    <div class="row g-3 align-items-center mb-4">
       <div class="col-lg col-12 order-lg-1 order-2 d-flex flex-column">
         <h2 class="fs-3 fw-bold mb-4">Партнерство</h2>
         <div class="mb-4">Компания «Амега» зарекомендовала себя как проверенного партнера для многих российских и зарубежных поставщиков. Мы сотрудничаем с Profine, Exprof, Proplex, РЕХАУ, Maco, Roto, ФУТУРУСС, Pilkington, Салаватстекло, AGC Group, УСПК, Татпроф.</div>
