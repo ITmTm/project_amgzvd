@@ -15,6 +15,6 @@ $breadcrumbs = [
     ),
     array(
         "title"=> "О компании",
-
+        "url"=> "",
     ),
 ];
