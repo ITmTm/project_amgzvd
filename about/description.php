@@ -31,7 +31,9 @@
       </div>
       <div class="col-lg-4 col-12 order-lg-2 order-1">
         <img src="/about/img/3.png" alt="" class="w-100">
+      </div>
 
+        <img src="/about/img/4.png" alt="" class="w-100">
       </div>
       <div class="col-lg col-12 d-flex flex-column">
         <h2 class="fs-3 fw-bold mb-4">Технологии</h2>
