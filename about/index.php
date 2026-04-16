@@ -6,3 +6,8 @@ $APPLICATION->SetPageProperty("title", "Амега в ".$SEO_CITY." - компа
 $APPLICATION->SetPageProperty("description", "Компания Амега в ".$SEO_CITY." ★ 13 лет на рынке ★ 34 секунды - время изготовление окна ★ 2 550 конструкций в сутки ★ Выгодные условия для дилеров ★ Система скидок ★ Собственная сеть логистики");
 $APPLICATION->SetPageProperty("keywords", "");
 $APPLICATION->AddHeadScript("/about/js/script.js");
+require("banner_top.php");
+
+$breadcrumbs = [
+
+];
