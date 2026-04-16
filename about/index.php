@@ -9,5 +9,7 @@ $APPLICATION->AddHeadScript("/about/js/script.js");
 require("banner_top.php");
 
 $breadcrumbs = [
-
+    array(
+        "title"=> "Главная",
+ 
 ];
