@@ -29,3 +29,4 @@ require($_SERVER["DOCUMENT_ROOT"] . "/parts/statistics/statistics.php");?>
                 <div class="mb-4">Завод «Амега» - это мультибрендовое предприятие. Мы производим окна, балконы, двери, порталы из 6 профильных ПВХ систем, 3 алюминиевых систем, 3 видов фурнитуры для ПВХ, 5 видов фурнитуры для алюминия и 8 видов стекол. Ассортимент завода «Амега» может удовлетворить любой запрос потребителя от эконом до премиума.</div>
                 <div>
                     <a href="/assets/files/presentation-amega-2026.pdf" target="_blank" class="btn btn-outline-danger btn-outline-brand-red">Ассортиментная матрица <img src="/imgs/icons/download-black.svg" alt=""></a>
+                </div>
