@@ -31,3 +31,4 @@ require($_SERVER["DOCUMENT_ROOT"] . "/parts/statistics/statistics.php");?>
                     <a href="/assets/files/presentation-amega-2026.pdf" target="_blank" class="btn btn-outline-danger btn-outline-brand-red">Ассортиментная матрица <img src="/imgs/icons/download-black.svg" alt=""></a>
                 </div>
             </div>
+            <div class="col-lg-4 col-12 order-lg-2 order-1">
