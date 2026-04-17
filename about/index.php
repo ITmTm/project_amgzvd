@@ -23,4 +23,5 @@ require($_SERVER["DOCUMENT_ROOT"] . "/parts/breadcrumbs.php");
 require($_SERVER["DOCUMENT_ROOT"] . "/parts/statistics/statistics.php");?>
 <section class="py-5">
     <div class="container">
- 
+        <div class="row g-3 align-items-center mb-4">
+  
