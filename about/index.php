@@ -18,3 +18,5 @@ $breadcrumbs = [
         "url"=> "",
     ),
 ];
+
+require($_SERVER["DOCUMENT_ROOT"] . "/parts/breadcrumbs.php");
