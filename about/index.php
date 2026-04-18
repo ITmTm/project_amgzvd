@@ -44,3 +44,4 @@ require($_SERVER["DOCUMENT_ROOT"] . "/parts/statistics/statistics.php");?>
             <div class="mb-4">Производственная площадки завода «Амега» оснащена тенологическими линиями: EMAR, BEST MAKINA, FIMTEC, включая 3 линии по ламинированию профильных систем и изготовлению окон любой формы. Производственный процесс выстроен по принципу бережливого производства Kaizen и включает в себя испытания конструкций на собственной лабораторной базе.
             </div>
             <div>
+              <div class="btn btn-outline-danger btn-outline-brand-red sign_tour">
