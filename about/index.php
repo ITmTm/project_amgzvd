@@ -48,3 +48,4 @@ require($_SERVER["DOCUMENT_ROOT"] . "/parts/statistics/statistics.php");?>
                 Записаться на экскурсию на завод <img src="/imgs/icons/arrows-right-black.svg" alt="">
               </div>
             </div>
+          </div>
