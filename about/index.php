@@ -45,4 +45,6 @@ require($_SERVER["DOCUMENT_ROOT"] . "/parts/statistics/statistics.php");?>
             </div>
             <div>
               <div class="btn btn-outline-danger btn-outline-brand-red sign_tour">
-                Записаться на экскурсию на завод <img src="/imgs/icons/arrows-right-black.svg" alt=""></div>
+                Записаться на экскурсию на завод <img src="/imgs/icons/arrows-right-black.svg" alt="">
+              </div>
+            </div>
