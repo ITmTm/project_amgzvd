@@ -39,3 +39,4 @@ require($_SERVER["DOCUMENT_ROOT"] . "/parts/statistics/statistics.php");?>
             <div class="col-lg-4 col-12">
                 <img src="/about/img/5.png" alt="" class="w-100">
             </div>
+          <div class="col-lg col-12 d-flex flex-column">
