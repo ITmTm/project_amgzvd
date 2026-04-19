@@ -70,13 +70,14 @@ require($_SERVER["DOCUMENT_ROOT"] . "/parts/statistics/statistics.php"); ?>
         </div>
         <div>
             <? if ((int)$CITY['IBLOCK_SECTION_ID'] === 305) : ?>
-          <a href="https://dikidi.ru/1559160?p=0.pi" target="_blank"
-             class="btn btn-outline-danger btn-outline-brand-red">
-            Записаться на самовывоз
-            <img src="/imgs/icons/arrows-right-black.svg" alt="→">
-          </a>
+              <a href="https://dikidi.ru/1559160?p=0.pi" target="_blank"
+                 class="btn btn-outline-danger btn-outline-brand-red">
+                Записаться на самовывоз
+                <img src="/imgs/icons/arrows-right-black.svg" alt="→">
+              </a>
             <? elseif ((int)$CITY['IBLOCK_SECTION_ID'] === 311) : ?>
           <a href="https://dikidi.net/1639840?p=0.pi"
              target="_blank" class="btn btn-outline-danger btn-outline-brand-red">
             Записаться на самовывоз
             <img src="/imgs/icons/arrows-right-black.svg" alt="→">
+          </a>
