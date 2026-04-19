@@ -90,3 +90,4 @@ require($_SERVER["DOCUMENT_ROOT"] . "/parts/statistics/statistics.php"); ?>
           <a href="https://dikidi.ru/1843509?p=0.pi" target="_blank" class="btn btn-outline-danger btn-outline-brand-red">
             Записаться на самовывоз
             <img src="/imgs/icons/arrows-right-black.svg" alt="→">
+          </a>
