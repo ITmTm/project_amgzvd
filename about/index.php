@@ -59,3 +59,4 @@ require($_SERVER["DOCUMENT_ROOT"] . "/parts/statistics/statistics.php");?>
             <br>При самовывозе из распределительного центра в субботу - запись обязательна.
           </div>
           <div>
+<? if ((int)$CITY['IBLOCK_SECTION_ID'] === 305) : ?>
