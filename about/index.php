@@ -82,3 +82,6 @@ require($_SERVER["DOCUMENT_ROOT"] . "/parts/statistics/statistics.php"); ?>
             <img src="/imgs/icons/arrows-right-black.svg" alt="→">
           </a>
             <? elseif ((int)$CITY['ID'] === 244757) : ?>
+          <a href="https://dikidi.ru/1680845?p=0.pi" target="_blank" class="btn btn-outline-danger btn-outline-brand-red">
+            Записаться на самовывоз
+            <img src="/imgs/icons/arrows-right-black.svg" alt="→">
