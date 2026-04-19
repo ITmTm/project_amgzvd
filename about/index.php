@@ -76,3 +76,4 @@ require($_SERVER["DOCUMENT_ROOT"] . "/parts/statistics/statistics.php"); ?>
             <img src="/imgs/icons/arrows-right-black.svg" alt="→">
           </a>
             <? elseif ((int)$CITY['IBLOCK_SECTION_ID'] === 311) : ?>
+          <a href="https://dikidi.net/1639840?p=0.pi"
