@@ -104,3 +104,4 @@ require($_SERVER["DOCUMENT_ROOT"] . "/parts/statistics/statistics.php"); ?>
           <? endif; ?>
         </div>
       </div>
+      <div class="col-lg-4 col-12 order-lg-2 order-1">
