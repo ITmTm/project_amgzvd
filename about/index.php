@@ -101,3 +101,4 @@ require($_SERVER["DOCUMENT_ROOT"] . "/parts/statistics/statistics.php"); ?>
             Записаться на самовывоз
             <img src="/imgs/icons/arrows-right-black.svg" alt="→">
           </a>
+          <? endif; ?>
