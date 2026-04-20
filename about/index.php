@@ -100,3 +100,4 @@ require($_SERVER["DOCUMENT_ROOT"] . "/parts/statistics/statistics.php"); ?>
           <a href="https://dikidi.ru/1530268" target="_blank" class="btn btn-outline-danger btn-outline-brand-red">
             Записаться на самовывоз
             <img src="/imgs/icons/arrows-right-black.svg" alt="→">
+          </a>
