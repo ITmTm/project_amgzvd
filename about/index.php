@@ -109,3 +109,4 @@ require($_SERVER["DOCUMENT_ROOT"] . "/parts/statistics/statistics.php"); ?>
       </div>
     </div>
     <div class="row g-3 align-items-center mb-4">
+      <div class="col-lg-4 col-12">
