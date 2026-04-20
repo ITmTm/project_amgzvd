@@ -108,3 +108,4 @@ require($_SERVER["DOCUMENT_ROOT"] . "/parts/statistics/statistics.php"); ?>
         <img src="/about/img/3.png" alt="" class="w-100">
       </div>
     </div>
+    <div class="row g-3 align-items-center mb-4">
