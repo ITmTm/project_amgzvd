@@ -111,3 +111,4 @@ require($_SERVER["DOCUMENT_ROOT"] . "/parts/statistics/statistics.php"); ?>
     <div class="row g-3 align-items-center mb-4">
       <div class="col-lg-4 col-12">
         <img src="/about/img/4.png" alt="" class="w-100">
+      </div>
