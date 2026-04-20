@@ -103,3 +103,4 @@ require($_SERVER["DOCUMENT_ROOT"] . "/parts/statistics/statistics.php"); ?>
           </a>
           <? endif; ?>
         </div>
+      </div>
