@@ -102,3 +102,4 @@ require($_SERVER["DOCUMENT_ROOT"] . "/parts/statistics/statistics.php"); ?>
             <img src="/imgs/icons/arrows-right-black.svg" alt="→">
           </a>
           <? endif; ?>
+        </div>
