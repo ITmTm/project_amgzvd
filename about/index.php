@@ -118,3 +118,4 @@ require($_SERVER["DOCUMENT_ROOT"] . "/parts/statistics/statistics.php"); ?>
         <div class="d-flex align-items-center row row-cols-md-2 row-cols-1 g-3">
           <div class="col-auto">
             <a target="_blank" href="https://framer.ru/?  utm_source=amegazavod&utm_medium=about&utm_campaign=technologies" class="btn btn-outline-brand-blue me-2">Перейти в сервис Framer <img src="/imgs/icons/arrows-right-black.svg" alt=""></a>
+          </div>
