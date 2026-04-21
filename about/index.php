@@ -125,3 +125,4 @@ require($_SERVER["DOCUMENT_ROOT"] . "/parts/statistics/statistics.php"); ?>
           </div>
         </div>
       </div>
+    </div>
