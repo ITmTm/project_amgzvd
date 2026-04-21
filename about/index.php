@@ -124,3 +124,4 @@ require($_SERVER["DOCUMENT_ROOT"] . "/parts/statistics/statistics.php"); ?>
             <a href="https://redirect.appmetrica.yandex.com/serve/964480543599132047"><img src="/imgs/google_play.png" alt=""></a>
           </div>
         </div>
+      </div>
