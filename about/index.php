@@ -122,3 +122,4 @@ require($_SERVER["DOCUMENT_ROOT"] . "/parts/statistics/statistics.php"); ?>
           <div class="d-flex col-auto">
             <a href="https://redirect.appmetrica.yandex.com/serve/964480543599132047" class="me-2"><img src="/imgs/app_store.png" alt=""></a>
             <a href="https://redirect.appmetrica.yandex.com/serve/964480543599132047"><img src="/imgs/google_play.png" alt=""></a>
+          </div>
