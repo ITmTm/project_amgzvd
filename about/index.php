@@ -115,4 +115,4 @@ require($_SERVER["DOCUMENT_ROOT"] . "/parts/statistics/statistics.php"); ?>
       <div class="col-lg col-12 d-flex flex-column">
         <h2 class="fs-3 fw-bold mb-4">Технологии</h2>
         <div class="mb-4">В 2020г. компания «Амега» запустила передовой IT-сервис Framer. Framer – личный кабинет дилера завода «Амега», который позволяет посчитать, оплатить, передать в производство заказ и регистрировать рекламации полностью онлайн.</div>
-        
+        <div class="d-flex align-items-center row row-cols-md-2 row-cols-1 g-3">
