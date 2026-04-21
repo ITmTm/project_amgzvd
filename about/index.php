@@ -120,3 +120,4 @@ require($_SERVER["DOCUMENT_ROOT"] . "/parts/statistics/statistics.php"); ?>
             <a target="_blank" href="https://framer.ru/?  utm_source=amegazavod&utm_medium=about&utm_campaign=technologies" class="btn btn-outline-brand-blue me-2">Перейти в сервис Framer <img src="/imgs/icons/arrows-right-black.svg" alt=""></a>
           </div>
           <div class="d-flex col-auto">
+            <a 
