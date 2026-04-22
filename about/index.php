@@ -132,3 +132,4 @@ require($_SERVER["DOCUMENT_ROOT"] . "/parts/statistics/statistics.php"); ?>
         <div class="mb-4">Компания «Амега» зарекомендовала себя как проверенного партнера для многих российских и зарубежных поставщиков. Мы сотрудничаем с Profine, Exprof, Proplex, РЕХАУ, Maco, Roto, ФУТУРУСС, Pilkington, Салаватстекло, AGC Group, УСПК, Татпроф.</div>
         <div>
           <div class="btn btn-danger btn-brand-red send_partner">Стать партнером <img src="/imgs/icons/arrows-right.svg"></div>
+        </div>
