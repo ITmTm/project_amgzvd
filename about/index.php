@@ -138,3 +138,4 @@ require($_SERVER["DOCUMENT_ROOT"] . "/parts/statistics/statistics.php"); ?>
         <img src="/about/img/2.png" alt="" class="w-100">
       </div>
     </div>
+  </div>
