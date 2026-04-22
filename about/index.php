@@ -134,3 +134,4 @@ require($_SERVER["DOCUMENT_ROOT"] . "/parts/statistics/statistics.php"); ?>
           <div class="btn btn-danger btn-brand-red send_partner">Стать партнером <img src="/imgs/icons/arrows-right.svg"></div>
         </div>
       </div>
+      <div class="col-lg-4 col-12 order-lg-2 order-1">
