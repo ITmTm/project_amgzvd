@@ -142,3 +142,4 @@ require($_SERVER["DOCUMENT_ROOT"] . "/parts/statistics/statistics.php"); ?>
 </section>
 <section class="map_home_section">
 <? require($_SERVER["DOCUMENT_ROOT"] . "/parts/map/map.php");?>
+</section>
