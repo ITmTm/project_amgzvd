@@ -140,4 +140,10 @@ require($_SERVER["DOCUMENT_ROOT"] . "/parts/statistics/statistics.php"); ?>
     </div>
   </div>
 </section>
-
+  <section class="map_home_section">
+      <? require($_SERVER["DOCUMENT_ROOT"] . "/parts/map/map.php");?>
+  </section>
+  <section class="mb-5 pb-5">
+      <? require($_SERVER["DOCUMENT_ROOT"] . "/parts/forms/dealer.php");?>
+  </section>
+<? require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");
