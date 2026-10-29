@@ -8,3 +8,4 @@ class CAmegaConfiguratorComponent extends CBitrixComponent
   {
     $this->includeComponentTemplate();
   }
+}
