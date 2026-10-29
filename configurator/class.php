@@ -4,3 +4,4 @@
 
 class CAmegaConfiguratorComponent extends CBitrixComponent
 {
+  public function executeComponent()
