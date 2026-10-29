@@ -2,3 +2,4 @@
 <?php
 
 use Bitrix\Main\Page\Asset;
+Asset::getInstance()->addCss($templateFolder . '/style.css');
