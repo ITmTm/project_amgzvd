@@ -13,3 +13,6 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
 <!-- Поп-ап конфигуратора -->
 <div class="configurator" id="configurator">
   <div class="configurator__inner">
+
+    <!-- Шапка -->
+    <div class="configurator__header">
