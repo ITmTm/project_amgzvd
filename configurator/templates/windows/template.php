@@ -17,3 +17,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
     <!-- Шапка -->
     <div class="configurator__header">
       <h3 class="configurator__title subtitle-h2" id="configurator-title"></h3>
+      <button class="configurator__close" id="configurator-close" type="button">
