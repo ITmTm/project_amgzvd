@@ -23,3 +23,5 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
         </svg>
       </button>
     </div>
+
+    <!-- 5 карточек параметров -->
