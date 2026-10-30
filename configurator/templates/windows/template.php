@@ -10,3 +10,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
 <!-- Оверлей конфигуратора -->
 <div class="configurator-overlay" id="configurator-overlay"></div>
 
+<!-- Поп-ап конфигуратора -->
