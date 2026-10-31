@@ -29,3 +29,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
       <button class="configurator-params-prev" type="button">
         <img src="/imgs/icons/chevron-left.svg" alt="Влево">
       </button>
+      <div class="swiper configurator__params-swiper">
