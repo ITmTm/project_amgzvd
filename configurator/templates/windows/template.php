@@ -41,3 +41,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
     <div class="configurator__body">
 
       <!-- Левая часть — выбор конфигурации -->
+      <div class="configurator__config">
