@@ -26,3 +26,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
 
     <!-- 5 карточек параметров -->
     <div class="configurator__params-slider" id="configurator-params-slider">
+      <button class="configurator-params-prev" type="button">
