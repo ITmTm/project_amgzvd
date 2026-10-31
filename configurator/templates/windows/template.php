@@ -37,3 +37,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
         <img src="/imgs/icons/chevron-right.svg" alt="Вправо">
       </button>
     </div>
+    <!-- Основная часть: конфигурация + превью + параметры -->
