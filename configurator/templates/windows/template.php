@@ -34,3 +34,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
         <div class="configurator-params-pagination"></div>
       </div>
       <button class="configurator-params-next" type="button">
+        <img src="/imgs/icons/chevron-right.svg" alt="Вправо">
