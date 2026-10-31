@@ -36,3 +36,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
       <button class="configurator-params-next" type="button">
         <img src="/imgs/icons/chevron-right.svg" alt="Вправо">
       </button>
+    </div>
