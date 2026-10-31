@@ -31,3 +31,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
       </button>
       <div class="swiper configurator__params-swiper">
         <div class="swiper-wrapper" id="configurator-params"></div>
+        <div class="configurator-params-pagination"></div>
