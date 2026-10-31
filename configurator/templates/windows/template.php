@@ -45,3 +45,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
 
         <!-- Количество створок -->
         <div class="configurator__config-section">
+          <div class="configurator__config-label subtitle-h4">Выберите конфигурацию:</div>
