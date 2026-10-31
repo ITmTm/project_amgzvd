@@ -38,3 +38,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
       </button>
     </div>
     <!-- Основная часть: конфигурация + превью + параметры -->
+    <div class="configurator__body">
