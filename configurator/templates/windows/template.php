@@ -59,3 +59,6 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
             </button>
           </div>
         </div>
+
+        <!-- Тип открывания -->
+        <div class="configurator__config-section">
