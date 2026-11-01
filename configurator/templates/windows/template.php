@@ -64,3 +64,6 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
         <div class="configurator__config-section">
           <div class="configurator__config-sublabel text-xs">Тип открывания:</div>
           <div class="configurator__opening-types" id="configurator-opening-types">
+
+            <!-- 1 створка — 5 иконок -->
+            <div class="configurator__opening-group" data-sashes-group="1">
