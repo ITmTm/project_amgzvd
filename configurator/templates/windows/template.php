@@ -52,3 +52,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
               <img src="<?= $templateFolder ?>/imgs/stvorki/odnostvorchatoye.svg" alt="1 створка">
             </button>
             <button class="configurator__sash-btn" data-sashes="2" type="button">
+              <img src="<?= $templateFolder ?>/imgs/stvorki/dvukhstvorchataya.svg" alt="2 створки">
