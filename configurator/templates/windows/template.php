@@ -58,3 +58,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
               <img src="<?= $templateFolder ?>/imgs/stvorki/trekhstvorchataya.svg" alt="3 створки">
             </button>
           </div>
+        </div>
