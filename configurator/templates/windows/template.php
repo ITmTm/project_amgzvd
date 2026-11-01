@@ -49,3 +49,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
           <div class="configurator__config-sublabel text-xs">Количество створок:</div>
           <div class="configurator__sashes" id="configurator-sashes">
             <button class="configurator__sash-btn active" data-sashes="1" type="button">
+              <img src="<?= $templateFolder ?>/imgs/stvorki/odnostvorchatoye.svg" alt="1 створка">
