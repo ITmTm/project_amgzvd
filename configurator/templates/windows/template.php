@@ -63,3 +63,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
         <!-- Тип открывания -->
         <div class="configurator__config-section">
           <div class="configurator__config-sublabel text-xs">Тип открывания:</div>
+          <div class="configurator__opening-types" id="configurator-opening-types">
