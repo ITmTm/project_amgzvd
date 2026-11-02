@@ -78,3 +78,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
               </button>
               <button class="configurator__opening-btn" data-opening="1-type-3" type="button">
                 <img src="<?= $templateFolder ?>/imgs/opening-types/1-type-3.svg" alt="Поворотно-откидное, ручка - слева">
+              </button>
