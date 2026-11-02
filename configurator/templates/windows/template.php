@@ -83,3 +83,5 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
                 <img src="<?= $templateFolder ?>/imgs/opening-types/1-type-4.svg" alt="Поворотно-откидное, ручка - справа">
               </button>
             </div>
+
+            <!-- 2 створки — 9 иконок -->
