@@ -86,3 +86,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
 
             <!-- 2 створки — 9 иконок -->
             <div class="configurator__opening-group" data-sashes-group="2" style="display:none">
+              <button class="configurator__opening-btn active" data-opening="2-deaf" type="button">
