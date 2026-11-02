@@ -85,3 +85,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
             </div>
 
             <!-- 2 створки — 9 иконок -->
+            <div class="configurator__opening-group" data-sashes-group="2" style="display:none">
