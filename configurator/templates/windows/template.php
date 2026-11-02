@@ -88,3 +88,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
             <div class="configurator__opening-group" data-sashes-group="2" style="display:none">
               <button class="configurator__opening-btn active" data-opening="2-deaf" type="button">
                 <img src="<?= $templateFolder ?>/imgs/opening-types/2-deaf.svg" alt="Глухое">
+              </button>
