@@ -90,3 +90,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
                 <img src="<?= $templateFolder ?>/imgs/opening-types/2-deaf.svg" alt="Глухое">
               </button>
               <button class="configurator__opening-btn" data-opening="2-type-1" type="button">
+                <img src="<?= $templateFolder ?>/imgs/opening-types/2-type-1.svg" alt="Левая глухая / Правая распашная створка">
