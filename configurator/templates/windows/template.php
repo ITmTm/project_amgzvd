@@ -122,3 +122,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
 
             <!-- 3 створки — 8 иконок -->
             <div class="configurator__opening-group" data-sashes-group="3" style="display:none">
+              <button class="configurator__opening-btn active" data-opening="3-deaf" type="button">
