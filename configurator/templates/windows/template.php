@@ -126,3 +126,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
                 <img src="<?= $templateFolder ?>/imgs/opening-types/3-deaf.svg" alt="Глухое">
               </button>
               <button class="configurator__opening-btn" data-opening="3-type-1" type="button">
+                <img src="<?= $templateFolder ?>/imgs/opening-types/3-type-1.svg"
