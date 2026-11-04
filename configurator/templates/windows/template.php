@@ -119,3 +119,6 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
                      alt="Левая поворотно-откидная / Правая поворотно-откидная створка">
               </button>
             </div>
+
+            <!-- 3 створки — 8 иконок -->
+            <div class="configurator__opening-group" data-sashes-group="3" style="display:none">
