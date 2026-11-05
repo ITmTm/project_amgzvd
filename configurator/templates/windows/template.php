@@ -149,3 +149,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
                 <img src="<?= $templateFolder ?>/imgs/opening-types/3-type-6.svg"
                      alt="Левая поворотно-откидная / Центральная глухая / Правая распашная створка">
               </button>
+              <button class="configurator__opening-btn" data-opening="3-type-7" type="button">
