@@ -161,3 +161,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
       <!-- Центр — превью окна -->
       <div class="configurator__preview">
         <div class="configurator__preview-toggle">
+          <button class="configurator__preview-toggle-btn" data-view="inside" type="button">Изнутри</button>
