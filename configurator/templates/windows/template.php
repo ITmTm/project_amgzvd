@@ -160,3 +160,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
 
       <!-- Центр — превью окна -->
       <div class="configurator__preview">
+        <div class="configurator__preview-toggle">
