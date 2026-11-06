@@ -176,3 +176,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
 
           <!-- Бренд и цвет профиля -->
           <div class="configurator__dropdown">
+            <button class="configurator__dropdown-trigger text-xs" type="button">
