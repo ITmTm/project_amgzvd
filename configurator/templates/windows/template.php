@@ -169,3 +169,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
 
       <!-- Правая часть — параметры комплектации + форма -->
       <div class="configurator__options">
+        <div class="configurator__options-label subtitle-h4">Выберете параметры комплектации:</div>
