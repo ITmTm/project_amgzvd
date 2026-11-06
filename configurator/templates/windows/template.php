@@ -178,3 +178,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
           <div class="configurator__dropdown">
             <button class="configurator__dropdown-trigger text-xs" type="button">
               Бренд и цвет профиля
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
