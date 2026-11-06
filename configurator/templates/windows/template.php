@@ -166,3 +166,6 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
         </div>
         <img src="" alt="Превью окна" id="configurator-preview-img" class="configurator__preview-img">
       </div>
+
+      <!-- Правая часть — параметры комплектации + форма -->
+      <div class="configurator__options">
