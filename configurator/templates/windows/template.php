@@ -154,3 +154,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
                      alt="Левая распашная / Центральная глухая / Правая поворотно-откидная створка">
               </button>
             </div>
+          </div>
