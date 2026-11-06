@@ -173,3 +173,6 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
 
         <!-- Дропдауны -->
         <div class="configurator__dropdowns" id="configurator-dropdowns">
+
+          <!-- Бренд и цвет профиля -->
+          <div class="configurator__dropdown">
