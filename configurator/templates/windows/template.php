@@ -198,3 +198,5 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
               </svg>
             </button>
             <div class="configurator__dropdown-body" id="dropdown-glass" style="display:none">
+              <!-- Заполняется JS -->
+            </div>
