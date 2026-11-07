@@ -205,3 +205,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
           <!-- Цвет ламинации изнутри -->
           <div class="configurator__dropdown">
             <button class="configurator__dropdown-trigger text-xs" type="button">
+              Цвет ламинации изнутри
