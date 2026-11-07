@@ -190,3 +190,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
 
           <!-- Стеклопакет -->
           <div class="configurator__dropdown">
+            <button class="configurator__dropdown-trigger text-xs" type="button">
