@@ -187,3 +187,6 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
               <!-- Заполняется JS -->
             </div>
           </div>
+
+          <!-- Стеклопакет -->
+          <div class="configurator__dropdown">
