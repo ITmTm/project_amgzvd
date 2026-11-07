@@ -201,3 +201,6 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
               <!-- Заполняется JS -->
             </div>
           </div>
+
+          <!-- Цвет ламинации изнутри -->
+          <div class="configurator__dropdown">
