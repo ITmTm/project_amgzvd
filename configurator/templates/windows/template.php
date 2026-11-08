@@ -230,3 +230,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
 
               <!-- Заполняется JS -->
             </div>
+          </div>
