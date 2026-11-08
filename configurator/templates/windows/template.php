@@ -211,3 +211,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
                       stroke-linejoin="round"/>
               </svg>
             </button>
+            <div class="configurator__dropdown-body" id="dropdown-color-inside" style="display:none">
