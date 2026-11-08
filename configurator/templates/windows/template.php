@@ -212,3 +212,6 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
               </svg>
             </button>
             <div class="configurator__dropdown-body" id="dropdown-color-inside" style="display:none">
+
+              <!-- Заполняется JS -->
+            </div>
