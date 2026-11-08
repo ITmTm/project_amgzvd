@@ -222,3 +222,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
             <button class="configurator__dropdown-trigger text-xs" type="button">
               Цвет ламинации снаружи
               <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M6 9L12 15L18 9" stroke="#1B1C20" stroke-width="2" stroke-linecap="round"
