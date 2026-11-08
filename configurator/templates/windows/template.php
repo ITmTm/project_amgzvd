@@ -231,3 +231,6 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
               <!-- Заполняется JS -->
             </div>
           </div>
+
+          <!-- Фурнитура -->
+          <div class="configurator__dropdown" id="dropdown-hardware-wrap">
