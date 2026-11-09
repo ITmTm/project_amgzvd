@@ -246,3 +246,5 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
             </div>
           </div>
         </div>
+
+        <!-- Чекбоксы -->
