@@ -251,3 +251,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
         <div class="configurator__checkboxes" id="configurator-checkboxes">
           <label class="primary-checkbox text-xs">
             <input type="checkbox" name="cfg_warm_frame">
+            <span class="primary-checkbox__marker"></span>
