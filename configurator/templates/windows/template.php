@@ -253,3 +253,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
             <input type="checkbox" name="cfg_warm_frame">
             <span class="primary-checkbox__marker"></span>
             Стеклопакет с терморамкой
+          </label>
