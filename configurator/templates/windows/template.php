@@ -244,3 +244,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
             <div class="configurator__dropdown-body" id="dropdown-hardware" style="display:none">
               <!-- Заполняется JS -->
             </div>
+          </div>
