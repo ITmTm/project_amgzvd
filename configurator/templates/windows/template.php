@@ -249,3 +249,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
 
         <!-- Чекбоксы -->
         <div class="configurator__checkboxes" id="configurator-checkboxes">
+          <label class="primary-checkbox text-xs">
