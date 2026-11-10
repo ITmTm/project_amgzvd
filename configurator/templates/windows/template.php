@@ -255,3 +255,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
             Стеклопакет с терморамкой
           </label>
           <label class="primary-checkbox text-xs" id="checkbox-gluing-wrap">
+            <input type="checkbox" name="cfg_gluing">
