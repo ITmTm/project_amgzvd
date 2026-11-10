@@ -270,3 +270,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
             <input type="checkbox" name="cfg_warm_profile">
             <span class="primary-checkbox__marker"></span>
             Тёплый подставочный профиль
+          </label>
