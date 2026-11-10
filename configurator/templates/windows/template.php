@@ -275,3 +275,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
           <label class="primary-checkbox text-xs configurator__checkbox-disabled" id="checkbox-hidden-hinges-wrap">
             <input type="checkbox" name="cfg_hidden_hinges" disabled>
             <span class="primary-checkbox__marker"></span>
+            Скрытые петли
