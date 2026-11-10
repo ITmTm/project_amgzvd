@@ -271,3 +271,5 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
             <span class="primary-checkbox__marker"></span>
             Тёплый подставочный профиль
           </label>
+
+          <label class="primary-checkbox text-xs configurator__checkbox-disabled" id="checkbox-hidden-hinges-wrap">
