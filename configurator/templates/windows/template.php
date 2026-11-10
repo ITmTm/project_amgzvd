@@ -276,3 +276,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
             <input type="checkbox" name="cfg_hidden_hinges" disabled>
             <span class="primary-checkbox__marker"></span>
             Скрытые петли
+            <span class="configurator__info-wrap" data-tooltip="Доступно только при выборе фурнитуры ФУТУРУСС">
