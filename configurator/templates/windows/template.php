@@ -265,5 +265,6 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
             <span class="primary-checkbox__marker"></span>
             Защитная плёнка
           </label>
-          
+
           <label class="primary-checkbox text-xs" id="checkbox-warm-profile-wrap">
+            <input type="checkbox" name="cfg_warm_profile">
