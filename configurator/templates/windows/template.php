@@ -259,3 +259,5 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
             <span class="primary-checkbox__marker"></span>
             Вклейка стеклопакета
           </label>
+
+          <label class="primary-checkbox text-xs">
