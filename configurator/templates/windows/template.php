@@ -258,3 +258,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
             <input type="checkbox" name="cfg_gluing">
             <span class="primary-checkbox__marker"></span>
             Вклейка стеклопакета
+          </label>
