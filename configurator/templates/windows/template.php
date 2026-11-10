@@ -263,3 +263,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
           <label class="primary-checkbox text-xs">
             <input type="checkbox" name="cfg_film">
             <span class="primary-checkbox__marker"></span>
+            Защитная плёнка
