@@ -293,3 +293,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
     </div>
 
     <!-- Форма -->
+    <form class="configurator__form" id="configurator-form" enctype="multipart/form-data">
