@@ -287,3 +287,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
             <span class="configurator__info-wrap" data-tooltip="Доступно только при выборе фурнитуры ФУТУРУСС">
               <img src="/imgs/icons/info.svg" alt="Информация" class="configurator__info-icon">
             </span>
+          </label>
