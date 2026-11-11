@@ -281,3 +281,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
             </span>
           </label>
           <label class="primary-checkbox text-xs configurator__checkbox-disabled" id="checkbox-tilt-first-wrap">
+            <input type="checkbox" name="cfg_tilt_first" disabled>
