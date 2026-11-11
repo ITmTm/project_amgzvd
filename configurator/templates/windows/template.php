@@ -296,3 +296,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
     <form class="configurator__form" id="configurator-form" enctype="multipart/form-data">
 
       <!-- Скрытые поля параметров -->
+      <input type="hidden" name="subject" value="Заявка из конфигуратора окон / Линейка окон ПВХ">
