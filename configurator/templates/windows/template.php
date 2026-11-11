@@ -294,3 +294,5 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
 
     <!-- Форма -->
     <form class="configurator__form" id="configurator-form" enctype="multipart/form-data">
+
+      <!-- Скрытые поля параметров -->
