@@ -280,3 +280,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
               <img src="/imgs/icons/info.svg" alt="Информация" class="configurator__info-icon">
             </span>
           </label>
+          <label class="primary-checkbox text-xs configurator__checkbox-disabled" id="checkbox-tilt-first-wrap">
