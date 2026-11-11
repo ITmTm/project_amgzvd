@@ -298,3 +298,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
       <!-- Скрытые поля параметров -->
       <input type="hidden" name="subject" value="Заявка из конфигуратора окон / Линейка окон ПВХ">
       <input type="hidden" name="page_label"
+             value="<?= htmlspecialchars($arParams['PAGE_LABEL'] ?? parse_url($_SERVER['REQUEST_URI'] ?? '', PHP_URL_PATH) ?: '') ?>">
