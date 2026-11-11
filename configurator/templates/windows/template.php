@@ -288,3 +288,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
               <img src="/imgs/icons/info.svg" alt="Информация" class="configurator__info-icon">
             </span>
           </label>
+        </div>
