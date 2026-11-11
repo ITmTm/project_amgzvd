@@ -284,3 +284,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
             <input type="checkbox" name="cfg_tilt_first" disabled>
             <span class="primary-checkbox__marker"></span>
             Открывание TiltFirst
+            <span class="configurator__info-wrap" data-tooltip="Доступно только при выборе фурнитуры ФУТУРУСС">
