@@ -314,3 +314,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
 
       <!-- Переключатель тип клиента -->
       <div class="configurator__client-toggle">
+        <button class="configurator__client-btn active" data-client="legal" type="button">Юридическим лицам</button>
