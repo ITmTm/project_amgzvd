@@ -307,3 +307,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
       <input type="hidden" name="cfg_glass_type" id="cfg_glass_type" value="">
       <input type="hidden" name="cfg_color_inside" id="cfg_color_inside" value="">
       <input type="hidden" name="cfg_color_outside" id="cfg_color_outside" value="">
+      <input type="hidden" name="cfg_hardware" id="cfg_hardware" value="">
