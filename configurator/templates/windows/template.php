@@ -320,3 +320,5 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
 
       <!-- Оверлей всплывашки -->
       <div class="configurator__form-notice-overlay" id="configurator-form-notice-overlay" style="display:none"></div>
+
+      <!-- Всплывашка уведомления -->
