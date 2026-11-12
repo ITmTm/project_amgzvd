@@ -303,3 +303,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
       <input type="hidden" name="cfg_type" id="cfg_type" value="">
       <input type="hidden" name="cfg_sashes" id="cfg_sashes" value="">
       <input type="hidden" name="cfg_opening" id="cfg_opening" value="">
+      <input type="hidden" name="cfg_profile" id="cfg_profile" value="">
