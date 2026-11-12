@@ -300,3 +300,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
       <input type="hidden" name="page_label"
              value="<?= htmlspecialchars($arParams['PAGE_LABEL'] ?? parse_url($_SERVER['REQUEST_URI'] ?? '', PHP_URL_PATH) ?: '') ?>">
       <input type="hidden" name="form_source" value="page">
+      <input type="hidden" name="cfg_type" id="cfg_type" value="">
