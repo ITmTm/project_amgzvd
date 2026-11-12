@@ -313,3 +313,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
       <input type="hidden" name="cfg_region" id="cfg_region" value="">
 
       <!-- Переключатель тип клиента -->
+      <div class="configurator__client-toggle">
