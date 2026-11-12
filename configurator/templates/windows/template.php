@@ -310,3 +310,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
       <input type="hidden" name="cfg_hardware" id="cfg_hardware" value="">
       <input type="hidden" name="cfg_options" id="cfg_options" value="">
       <input type="hidden" name="cfg_client_type" id="cfg_client_type" value="legal">
+      <input type="hidden" name="cfg_region" id="cfg_region" value="">
