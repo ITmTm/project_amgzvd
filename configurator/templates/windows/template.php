@@ -305,3 +305,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
       <input type="hidden" name="cfg_opening" id="cfg_opening" value="">
       <input type="hidden" name="cfg_profile" id="cfg_profile" value="">
       <input type="hidden" name="cfg_glass_type" id="cfg_glass_type" value="">
+      <input type="hidden" name="cfg_color_inside" id="cfg_color_inside" value="">
