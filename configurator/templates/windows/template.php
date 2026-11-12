@@ -316,3 +316,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
       <div class="configurator__client-toggle">
         <button class="configurator__client-btn active" data-client="legal" type="button">Юридическим лицам</button>
         <button class="configurator__client-btn" data-client="physical" type="button">Физическим лицам</button>
+      </div>
