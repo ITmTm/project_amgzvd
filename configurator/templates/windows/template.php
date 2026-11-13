@@ -329,3 +329,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
             <path d="M18 6L6 18M6 6L18 18" stroke="#1B1C20" stroke-width="2" stroke-linecap="round"/>
           </svg>
         </button>
+        <p class="configurator__form-notice-text text-m" id="configurator-form-notice-text"></p>
