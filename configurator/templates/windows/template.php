@@ -325,3 +325,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
       <div class="configurator__form-notice" id="configurator-form-notice" style="display:none">
         <button class="configurator__form-notice-close configurator__close" id="configurator-form-notice-close"
                 type="button">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
