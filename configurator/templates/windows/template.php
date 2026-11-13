@@ -339,3 +339,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
           <input type="text" name="name" placeholder="Введите ваше имя" class="primary-form-field__input text-s">
         </div>
         <div class="primary-form-field">
+          <div class="primary-form-field__label text-s">Телефон<span class="primary-color">*</span></div>
