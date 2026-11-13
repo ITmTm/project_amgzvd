@@ -331,3 +331,5 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
         </button>
         <p class="configurator__form-notice-text text-m" id="configurator-form-notice-text"></p>
       </div>
+
+      <!-- Поля в одну строку -->
