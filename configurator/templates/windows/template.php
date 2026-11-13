@@ -330,3 +330,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
           </svg>
         </button>
         <p class="configurator__form-notice-text text-m" id="configurator-form-notice-text"></p>
+      </div>
