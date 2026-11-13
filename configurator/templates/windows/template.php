@@ -336,3 +336,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
       <div class="configurator__form-row" id="configurator-main-row">
         <div class="primary-form-field">
           <div class="primary-form-field__label text-s">Имя<span class="primary-color">*</span></div>
+          <input type="text" name="name" placeholder="Введите ваше имя" class="primary-form-field__input text-s">
