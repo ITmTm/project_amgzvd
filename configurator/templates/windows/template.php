@@ -334,3 +334,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
 
       <!-- Поля в одну строку -->
       <div class="configurator__form-row" id="configurator-main-row">
+        <div class="primary-form-field">
