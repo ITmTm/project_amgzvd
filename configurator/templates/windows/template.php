@@ -360,3 +360,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
           <input type="text" name="cfg_count" id="cfg_count" placeholder="Напишите количество конструкций"
                  class="primary-form-field__input text-s">
         </div>
+        <div class="primary-form-field" id="cfg-address-wrap" style="display:none">
