@@ -357,3 +357,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
         <!-- Дополнительные поля для физических лиц -->
         <div class="primary-form-field" id="cfg-count-wrap" style="display:none">
           <div class="primary-form-field__label text-s">Количество конструкций<span class="primary-color">*</span></div>
+          <input type="text" name="cfg_count" id="cfg_count" placeholder="Напишите количество конструкций"
