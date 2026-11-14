@@ -343,3 +343,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
           <input type="text" name="phone" placeholder="+7(___)___-__-__"
                  class="primary-form-field__input text-s mask-phone">
         </div>
+        <div class="primary-form-field">
