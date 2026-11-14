@@ -355,3 +355,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
         </div>
 
         <!-- Дополнительные поля для физических лиц -->
+        <div class="primary-form-field" id="cfg-count-wrap" style="display:none">
