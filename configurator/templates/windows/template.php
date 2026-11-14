@@ -351,3 +351,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
           <div class="primary-form-field__label text-s">Регион<span class="primary-color">*</span></div>
           <input type="text" name="region" placeholder="Выберите ваш город"
                  class="primary-form-field__input text-s region" autocomplete="off">
+          <?php require($_SERVER['DOCUMENT_ROOT'] . '/parts/city-dropdown-list/index.php'); ?>
