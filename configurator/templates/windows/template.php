@@ -345,3 +345,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
         </div>
         <div class="primary-form-field">
           <div class="primary-form-field__label text-s">Email<span class="primary-color">*</span></div>
+          <input type="text" name="email" placeholder="Введите ваш email" class="primary-form-field__input text-s">
