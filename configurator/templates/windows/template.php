@@ -359,3 +359,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
           <div class="primary-form-field__label text-s">Количество конструкций<span class="primary-color">*</span></div>
           <input type="text" name="cfg_count" id="cfg_count" placeholder="Напишите количество конструкций"
                  class="primary-form-field__input text-s">
+        </div>
