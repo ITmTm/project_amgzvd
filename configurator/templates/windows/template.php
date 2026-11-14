@@ -344,3 +344,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
                  class="primary-form-field__input text-s mask-phone">
         </div>
         <div class="primary-form-field">
+          <div class="primary-form-field__label text-s">Email<span class="primary-color">*</span></div>
