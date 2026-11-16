@@ -367,3 +367,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
         </div>
 
         <!-- ИНН - только для юр.лиц -->
+        <div class="primary-form-field" id="configurator-inn-wrap">
