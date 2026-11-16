@@ -369,3 +369,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
         <!-- ИНН - только для юр.лиц -->
         <div class="primary-form-field" id="configurator-inn-wrap">
           <div class="primary-form-field__label text-s">ИНН<span class="primary-color">*</span></div>
+          <input type="text" name="cfg_inn" id="cfg_inn" placeholder="Введите ИНН компании"
