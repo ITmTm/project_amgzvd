@@ -379,3 +379,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
             Добавьте карточку
             <br>
             Вашей компании
+            <span class="primary-color">*</span></div>
