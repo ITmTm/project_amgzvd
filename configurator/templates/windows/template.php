@@ -365,3 +365,5 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
           <input type="text" name="cfg_address" id="cfg_address" placeholder="Укажите адрес монтажа"
                  class="primary-form-field__input text-s">
         </div>
+
+        <!-- ИНН - только для юр.лиц -->
