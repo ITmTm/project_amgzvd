@@ -382,3 +382,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
             <span class="primary-color">*</span></div>
           <label class="configurator__file-label">
             <img src="/imgs/icons/paperclip.svg" alt="" class="configurator__file-icon">
+            <span class="configurator__file-text" id="configurator-file-text">Загрузить файл</span>
