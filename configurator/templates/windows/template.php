@@ -380,3 +380,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
             <br>
             Вашей компании
             <span class="primary-color">*</span></div>
+          <label class="configurator__file-label">
