@@ -374,3 +374,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
         </div>
 
         <!-- Загрузка файла - только для юр.лиц -->
+        <div class="primary-form-field configurator__file-wrap" id="configurator-file-wrap">
