@@ -384,3 +384,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
             <img src="/imgs/icons/paperclip.svg" alt="" class="configurator__file-icon">
             <span class="configurator__file-text" id="configurator-file-text">Загрузить файл</span>
             <input type="file" name="company_card" id="configurator-file-input" class="configurator__file-input"
+                   accept=".pdf,.doc,.docx,.jpg,.jpeg,.png">
