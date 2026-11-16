@@ -378,3 +378,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
           <div class="primary-form-field__label text-s">
             Добавьте карточку
             <br>
+            Вашей компании
