@@ -372,3 +372,5 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
           <input type="text" name="cfg_inn" id="cfg_inn" placeholder="Введите ИНН компании"
                  class="primary-form-field__input text-s" inputmode="numeric" maxlength="12">
         </div>
+
+        <!-- Загрузка файла - только для юр.лиц -->
