@@ -364,3 +364,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
           <div class="primary-form-field__label text-s">Адрес монтажа<span class="primary-color">*</span></div>
           <input type="text" name="cfg_address" id="cfg_address" placeholder="Укажите адрес монтажа"
                  class="primary-form-field__input text-s">
+        </div>
