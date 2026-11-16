@@ -381,3 +381,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
             Вашей компании
             <span class="primary-color">*</span></div>
           <label class="configurator__file-label">
+            <img src="/imgs/icons/paperclip.svg" alt="" class="configurator__file-icon">
