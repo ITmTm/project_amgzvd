@@ -398,3 +398,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
           Нажимая кнопку «Отправить», я&nbsp;даю&nbsp;своё согласие на&nbsp;обработку моих персональных данных,
           в&nbsp;соответствии с&nbsp;Федеральным законом от&nbsp;27.07.2006&nbsp;г. №&nbsp;152-ФЗ «О&nbsp;персональных
           данных», на&nbsp;условиях
+          и&nbsp;для&nbsp;целей, определённых в&nbsp;<a href="/imgs/personal.pdf" target="_blank"
