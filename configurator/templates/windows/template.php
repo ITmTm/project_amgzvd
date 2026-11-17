@@ -395,3 +395,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
         <label class="primary-checkbox">
           <input name="ml" type="checkbox">
           <span class="primary-checkbox__marker"></span>
+          Нажимая кнопку «Отправить», я&nbsp;даю&nbsp;своё согласие на&nbsp;обработку моих персональных данных,
