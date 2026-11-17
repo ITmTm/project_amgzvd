@@ -402,3 +402,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
                                                         class="primary-checkbox__link primary-link">Согласии на&nbsp;обработку
             персональных данных</a>.
         </label>
+        <button class="primary-btn configurator__submit none-target" type="submit">
