@@ -386,3 +386,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
             <input type="file" name="company_card" id="configurator-file-input" class="configurator__file-input"
                    accept=".pdf,.doc,.docx,.jpg,.jpeg,.png">
           </label>
+        </div>
