@@ -394,3 +394,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
       <div class="primary-privacy">
         <label class="primary-checkbox">
           <input name="ml" type="checkbox">
+          <span class="primary-checkbox__marker"></span>
