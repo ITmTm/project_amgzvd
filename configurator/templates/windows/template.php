@@ -399,3 +399,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
           в&nbsp;соответствии с&nbsp;Федеральным законом от&nbsp;27.07.2006&nbsp;г. №&nbsp;152-ФЗ «О&nbsp;персональных
           данных», на&nbsp;условиях
           и&nbsp;для&nbsp;целей, определённых в&nbsp;<a href="/imgs/personal.pdf" target="_blank"
+                                                        class="primary-checkbox__link primary-link">Согласии на&nbsp;обработку
