@@ -401,3 +401,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
           и&nbsp;для&nbsp;целей, определённых в&nbsp;<a href="/imgs/personal.pdf" target="_blank"
                                                         class="primary-checkbox__link primary-link">Согласии на&nbsp;обработку
             персональных данных</a>.
+        </label>
