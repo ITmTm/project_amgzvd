@@ -403,3 +403,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
             персональных данных</a>.
         </label>
         <button class="primary-btn configurator__submit none-target" type="submit">
+          Отправить заявку
