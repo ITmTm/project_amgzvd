@@ -406,3 +406,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
           Отправить заявку
         </button>
       </div>
+    </form>
