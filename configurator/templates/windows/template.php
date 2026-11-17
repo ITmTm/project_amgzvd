@@ -404,3 +404,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
         </label>
         <button class="primary-btn configurator__submit none-target" type="submit">
           Отправить заявку
+        </button>
