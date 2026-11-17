@@ -388,3 +388,6 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
           </label>
         </div>
       </div>
+
+
+      <!-- Галочка согласия -->
