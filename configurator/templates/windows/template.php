@@ -387,3 +387,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
                    accept=".pdf,.doc,.docx,.jpg,.jpeg,.png">
           </label>
         </div>
+      </div>
