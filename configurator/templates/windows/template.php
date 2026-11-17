@@ -391,3 +391,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
 
 
       <!-- Галочка согласия -->
+      <div class="primary-privacy">
