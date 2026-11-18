@@ -418,3 +418,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
     </div>
     <div class="configurator-toast__text text-m">
       Ожидайте, скоро с Вами свяжутся!
+    </div>
