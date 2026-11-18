@@ -416,3 +416,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
     <div class="configurator-toast__title subtitle-h2">
       <strong>Спасибо!</strong><br>Ваша заявка принята
     </div>
+    <div class="configurator-toast__text text-m">
