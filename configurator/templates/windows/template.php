@@ -412,3 +412,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
 
 <!-- Success toast -->
 <div class="configurator-toast" id="configurator-toast">
+  <div class="configurator-toast__inner">
