@@ -425,3 +425,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
       </svg>
     </button>
   </div>
+</div>
