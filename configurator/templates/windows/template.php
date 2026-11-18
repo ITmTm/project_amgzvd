@@ -420,3 +420,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
       Ожидайте, скоро с Вами свяжутся!
     </div>
     <button class="configurator-toast__close" id="configurator-toast-close" type="button">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
