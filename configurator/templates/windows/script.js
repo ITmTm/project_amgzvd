@@ -6,3 +6,5 @@ $(document).ready(function () {
       configuratorParamsSwiper.destroy(true, true);
       configuratorParamsSwiper = null;
     }
+
+    configuratorParamsSwiper = new Swiper('#configurator-params-slider .configurator__params-swiper', {
