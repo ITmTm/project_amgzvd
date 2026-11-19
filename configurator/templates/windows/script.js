@@ -11,3 +11,4 @@ $(document).ready(function () {
       grabCursor: true,
       slidesPerView: 1,
       spaceBetween: 16,
+      autoHeight: false,
