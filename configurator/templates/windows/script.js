@@ -5,3 +5,4 @@ $(document).ready(function () {
     if (configuratorParamsSwiper) {
       configuratorParamsSwiper.destroy(true, true);
       configuratorParamsSwiper = null;
+    }
