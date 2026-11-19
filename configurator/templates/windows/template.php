@@ -432,3 +432,4 @@ require($_SERVER['DOCUMENT_ROOT'] . '/parts/spinner/index.php');
 ?>
 
 <script>
+  var CONFIGURATOR_IMGS = '<?= $templateFolder ?>/imgs';
