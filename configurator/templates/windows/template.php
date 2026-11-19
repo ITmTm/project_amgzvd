@@ -426,3 +426,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
     </button>
   </div>
 </div>
+<?php
