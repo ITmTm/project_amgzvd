@@ -8,3 +8,4 @@ $(document).ready(function () {
     }
 
     configuratorParamsSwiper = new Swiper('#configurator-params-slider .configurator__params-swiper', {
+      grabCursor: true,
