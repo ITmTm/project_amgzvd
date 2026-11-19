@@ -12,3 +12,4 @@ $(document).ready(function () {
       slidesPerView: 1,
       spaceBetween: 16,
       autoHeight: false,
+      navigation: {
