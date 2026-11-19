@@ -4,3 +4,4 @@ $(document).ready(function () {
   function initParamsSwiper() {
     if (configuratorParamsSwiper) {
       configuratorParamsSwiper.destroy(true, true);
+      configuratorParamsSwiper = null;
