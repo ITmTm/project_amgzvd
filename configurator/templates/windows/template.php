@@ -427,3 +427,4 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
   </div>
 </div>
 <?php
+$spinnerId = 'configurator-loader';
