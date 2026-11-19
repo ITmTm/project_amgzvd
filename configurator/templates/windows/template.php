@@ -430,3 +430,5 @@ Asset::getInstance()->addJs($templateFolder . '/script.js');
 $spinnerId = 'configurator-loader';
 require($_SERVER['DOCUMENT_ROOT'] . '/parts/spinner/index.php');
 ?>
+
+<script>
