@@ -16,3 +16,4 @@ $(document).ready(function () {
         prevEl: '.configurator-params-prev',
         nextEl: '.configurator-params-next',
       },
+      pagination: {
