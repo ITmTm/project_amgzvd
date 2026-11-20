@@ -15,3 +15,4 @@ $(document).ready(function () {
       navigation: {
         prevEl: '.configurator-params-prev',
         nextEl: '.configurator-params-next',
+      },
