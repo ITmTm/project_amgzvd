@@ -29,3 +29,4 @@ $(document).ready(function () {
           spaceBetween: 16,
         },
         1344: {
+          slidesPerView: 5,
