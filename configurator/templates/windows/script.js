@@ -34,3 +34,4 @@ $(document).ready(function () {
           allowTouchMove: false,
           grabCursor: false,
         }
+      }
