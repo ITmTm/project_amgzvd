@@ -54,3 +54,4 @@ $(document).ready(function () {
     '2-deaf':   'deaf',
     '2-type-1': 'with-handles-and-hinges-r',
     '2-type-2': 'with-handles-and-hinges-l',
+    '2-type-3': 'with-handles-and-hinges-m',
