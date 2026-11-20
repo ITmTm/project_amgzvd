@@ -17,3 +17,4 @@ $(document).ready(function () {
         nextEl: '.configurator-params-next',
       },
       pagination: {
+        el: '.configurator-params-pagination',
