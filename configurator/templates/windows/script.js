@@ -32,3 +32,4 @@ $(document).ready(function () {
           slidesPerView: 5,
           spaceBetween: 20,
           allowTouchMove: false,
+          grabCursor: false,
