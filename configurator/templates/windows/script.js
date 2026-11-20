@@ -45,3 +45,4 @@ $(document).ready(function () {
   var insideFolderMap = {
     // 1 створка
     '1-deaf':   'deaf',
+    '1-type-1': 'with-handles-and-hinges-l',
