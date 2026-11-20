@@ -57,3 +57,4 @@ $(document).ready(function () {
     '2-type-3': 'with-handles-and-hinges-m',
     '2-type-4': 'with-handles-and-hinges-l',
     '2-type-5': 'with-handles-and-hinges-r',
+    '2-type-6': 'with-handles-and-hinges-m',
