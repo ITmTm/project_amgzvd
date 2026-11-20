@@ -24,3 +24,4 @@ $(document).ready(function () {
           slidesPerView: 2,
           spaceBetween: 16,
         },
+        1100: {
