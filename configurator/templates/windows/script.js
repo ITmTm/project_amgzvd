@@ -14,3 +14,4 @@ $(document).ready(function () {
       autoHeight: false,
       navigation: {
         prevEl: '.configurator-params-prev',
+        nextEl: '.configurator-params-next',
