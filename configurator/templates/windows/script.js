@@ -33,3 +33,4 @@ $(document).ready(function () {
           spaceBetween: 20,
           allowTouchMove: false,
           grabCursor: false,
+        }
