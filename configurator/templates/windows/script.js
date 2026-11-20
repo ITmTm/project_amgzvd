@@ -13,3 +13,4 @@ $(document).ready(function () {
       spaceBetween: 16,
       autoHeight: false,
       navigation: {
+        prevEl: '.configurator-params-prev',
