@@ -49,3 +49,6 @@ $(document).ready(function () {
     '1-type-2': 'with-handles-and-hinges-r',
     '1-type-3': 'with-handles-and-hinges-l',
     '1-type-4': 'with-handles-and-hinges-r',
+
+    // 2 створки
+    '2-deaf':   'deaf',
