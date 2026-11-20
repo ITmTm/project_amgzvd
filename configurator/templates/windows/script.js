@@ -31,3 +31,4 @@ $(document).ready(function () {
         1344: {
           slidesPerView: 5,
           spaceBetween: 20,
+          allowTouchMove: false,
