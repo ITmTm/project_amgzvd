@@ -20,3 +20,4 @@ $(document).ready(function () {
         el: '.configurator-params-pagination',
       },
       breakpoints: {
+        768: {
