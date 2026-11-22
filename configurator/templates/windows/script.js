@@ -66,3 +66,4 @@ $(document).ready(function () {
     '3-type-1': 'with-handle-center-l',
     '3-type-2': 'with-handle-center-r',
     '3-type-3': 'with-handle-center-l',
+    '3-type-4': 'with-handle-center-r',
