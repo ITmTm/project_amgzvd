@@ -61,4 +61,5 @@ $(document).ready(function () {
     '2-type-7': 'with-handles-and-hinges-m',
     '2-type-8': 'with-handles-and-hinges-m',
 
-// 3 створки
+    // 3 створки
+    '3-deaf':   'deaf',
