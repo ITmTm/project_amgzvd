@@ -70,3 +70,4 @@ $(document).ready(function () {
     '3-type-5': 'with-handles-sides',
     '3-type-6': 'with-handles-sides',
     '3-type-7': 'with-handles-sides',
+  };
