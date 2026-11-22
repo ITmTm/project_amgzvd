@@ -63,3 +63,4 @@ $(document).ready(function () {
 
     // 3 створки
     '3-deaf':   'deaf',
+    '3-type-1': 'with-handle-center-l',
