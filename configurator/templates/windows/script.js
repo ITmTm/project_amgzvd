@@ -73,3 +73,4 @@ $(document).ready(function () {
   };
 
   var outsideFolderMap = {
+    // 1 створка — без подпапки
