@@ -76,3 +76,4 @@ $(document).ready(function () {
     // 1 створка — без подпапки
     '1-deaf':   null,
     '1-type-1': null,
+    '1-type-2': null,
