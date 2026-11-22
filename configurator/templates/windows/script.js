@@ -74,3 +74,4 @@ $(document).ready(function () {
 
   var outsideFolderMap = {
     // 1 створка — без подпапки
+    '1-deaf':   null,
