@@ -97,3 +97,4 @@ $(document).ready(function () {
     '3-type-2': 'center',
     '3-type-3': 'center',
     '3-type-4': 'center',
+    '3-type-5': 'sides',
