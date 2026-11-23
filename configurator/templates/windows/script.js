@@ -85,3 +85,4 @@ $(document).ready(function () {
     '2-type-1': 'right',
     '2-type-2': 'left',
     '2-type-3': 'mid',
+    '2-type-4': 'left',
