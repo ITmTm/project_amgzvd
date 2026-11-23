@@ -78,3 +78,4 @@ $(document).ready(function () {
     '1-type-1': null,
     '1-type-2': null,
     '1-type-3': null,
+    '1-type-4': null,
