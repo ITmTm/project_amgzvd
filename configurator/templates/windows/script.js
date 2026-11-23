@@ -99,3 +99,4 @@ $(document).ready(function () {
     '3-type-4': 'center',
     '3-type-5': 'sides',
     '3-type-6': 'sides',
+    '3-type-7': 'sides',
