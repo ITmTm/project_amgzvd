@@ -83,3 +83,4 @@ $(document).ready(function () {
     // 2 створки
     '2-deaf':   'mid',
     '2-type-1': 'right',
+    '2-type-2': 'left',
