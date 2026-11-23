@@ -93,3 +93,4 @@ $(document).ready(function () {
 
     // 3 створки
     '3-deaf':   'center',
+    '3-type-1': 'center',
