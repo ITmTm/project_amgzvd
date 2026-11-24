@@ -104,3 +104,4 @@ $(document).ready(function () {
 
   var colorLaminationList = [
     {label: 'Тёмный дуб Hyundai', colorImg: CONFIGURATOR_IMGS + '/color-lamination/dark-dub-hyundai.svg', previewKey: 'dark-dub-hyundai'},
+    {label: 'Шоколадно-коричневая Hyundai', colorImg: CONFIGURATOR_IMGS + '/color-lamination/shokoladno-korichnevaya-hyundai.svg', previewKey: 'shokoladno-korichnevaya-hyundai'},
