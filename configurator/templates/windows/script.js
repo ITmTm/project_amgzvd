@@ -103,3 +103,4 @@ $(document).ready(function () {
   };
 
   var colorLaminationList = [
+    {label: 'Тёмный дуб Hyundai', colorImg: CONFIGURATOR_IMGS + '/color-lamination/dark-dub-hyundai.svg', previewKey: 'dark-dub-hyundai'},
