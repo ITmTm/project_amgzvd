@@ -117,3 +117,4 @@ $(document).ready(function () {
     {label: 'Морёный дуб Hyundai', colorImg: CONFIGURATOR_IMGS + '/color-lamination/morenyy-dub-hyundai.svg', previewKey: 'morenyy-dub-hyundai'},
     {label: 'Дуб Шефилд светлый Hyundai', colorImg: CONFIGURATOR_IMGS + '/color-lamination/dub-shefild-svetlyy-hyundai.svg', previewKey: 'dub-shefild-svetlyy-hyundai'},
     {label: 'Горная сосна Hyundai', colorImg: CONFIGURATOR_IMGS + '/color-lamination/gornaya-sosna-hyundai.svg', previewKey: 'gornaya-sosna-hyundai'},
+    {label: 'Берёза Hyundai', colorImg: CONFIGURATOR_IMGS + '/color-lamination/beryoza-hyundai.svg', previewKey: 'beryoza-hyundai'},
