@@ -120,3 +120,4 @@ $(document).ready(function () {
     {label: 'Берёза Hyundai', colorImg: CONFIGURATOR_IMGS + '/color-lamination/beryoza-hyundai.svg', previewKey: 'beryoza-hyundai'},
     {label: 'Антрацитово-серый шагрень Hyundai', colorImg: CONFIGURATOR_IMGS + '/color-lamination/antracitovo-seryy-shagren-hyundai.svg', previewKey: 'antracitovo-seryy-shagren-hyundai'},
     {label: 'Чёрная шагрень Hyundai', colorImg: CONFIGURATOR_IMGS + '/color-lamination/chernaya-shagren-hyundai.svg', previewKey: 'chernaya-shagren-hyundai'},
+    {label: 'Песочно-серый Hyundai', colorImg: CONFIGURATOR_IMGS + '/color-lamination/pesochno-seryy-hyundai.svg', previewKey: 'pesochno-seryy-hyundai'},
