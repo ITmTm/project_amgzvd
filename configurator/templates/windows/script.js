@@ -107,3 +107,4 @@ $(document).ready(function () {
     {label: 'Шоколадно-коричневая Hyundai', colorImg: CONFIGURATOR_IMGS + '/color-lamination/shokoladno-korichnevaya-hyundai.svg', previewKey: 'shokoladno-korichnevaya-hyundai'},
     {label: 'Антрацитово-серый Hyundai', colorImg: CONFIGURATOR_IMGS + '/color-lamination/antracitovo-seryy-hyundai.svg', previewKey: 'antracitovo-seryy-hyundai'},
     {label: 'Базальтово-серый Hyundai', colorImg: CONFIGURATOR_IMGS + '/color-lamination/bazaltovo-seryy-hyundai.svg', previewKey: 'bazaltovo-seryy-hyundai'},
+    {label: 'Средне-серая Hyundai', colorImg: CONFIGURATOR_IMGS + '/color-lamination/sredne-seraya-hyundai.svg', previewKey: 'sredne-seraya-hyundai'},
