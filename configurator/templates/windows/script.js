@@ -114,3 +114,4 @@ $(document).ready(function () {
     {label: 'Орех тёмный Hyundai', colorImg: CONFIGURATOR_IMGS + '/color-lamination/oreh-temnyy-hyundai.svg', previewKey: 'oreh-temnyy-hyundai'},
     {label: 'Черно-коричневая Hyundai', colorImg: CONFIGURATOR_IMGS + '/color-lamination/cherno-korichnevaya-hyundai.svg', previewKey: 'cherno-korichnevaya-hyundai'},
     {label: 'Рустикальный дуб Hyundai', colorImg: CONFIGURATOR_IMGS + '/color-lamination/rustikalnyy-dub-hyundai.svg', previewKey: 'rustikalnyy-dub-hyundai'},
+    {label: 'Морёный дуб Hyundai', colorImg: CONFIGURATOR_IMGS + '/color-lamination/morenyy-dub-hyundai.svg', previewKey: 'morenyy-dub-hyundai'},
