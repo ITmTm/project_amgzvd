@@ -110,3 +110,4 @@ $(document).ready(function () {
     {label: 'Средне-серая Hyundai', colorImg: CONFIGURATOR_IMGS + '/color-lamination/sredne-seraya-hyundai.svg', previewKey: 'sredne-seraya-hyundai'},
     {label: 'Махагон Hyundai', colorImg: CONFIGURATOR_IMGS + '/color-lamination/mahagon-hyundai.svg', previewKey: 'mahagon-hyundai'},
     {label: 'Золотой дуб Hyundai', colorImg: CONFIGURATOR_IMGS + '/color-lamination/zolotoy-dub-hyundai.svg', previewKey: 'zolotoy-dub-hyundai'},
+    {label: 'Натуральный дуб Hyundai', colorImg: CONFIGURATOR_IMGS + '/color-lamination/naturalnyy-dub-hyundai.svg', previewKey: 'naturalnyy-dub-hyundai'},
