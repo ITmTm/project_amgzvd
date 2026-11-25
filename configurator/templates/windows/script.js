@@ -135,3 +135,4 @@ $(document).ready(function () {
     {label: 'Дуб антик LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/dub-antik-lg.svg', previewKey: 'dub-antik-lg'},
     {label: 'Бургундия LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/burgundiya-lg.svg', previewKey: 'burgundiya-lg'},
     {label: 'Светло-серый LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/svetlo-seryy-lg.svg', previewKey: 'svetlo-seryy-lg'},
+    {label: 'Морёная сосна LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/morenaya-sosna-lg.svg', previewKey: 'morenaya-sosna-lg'},
