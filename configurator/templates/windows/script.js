@@ -124,3 +124,4 @@ $(document).ready(function () {
     {label: 'Брашированный Антрацитовый LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/brashirovannyy-antracitovyy-lg.svg', previewKey: 'brashirovannyy-antracitovyy-lg'},
     {label: 'Брызги шампанского LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/bryzgi-shampanskogo-lg.svg', previewKey: 'bryzgi-shampanskogo-lg'},
     {label: 'Брашированный Шоколадный LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/brashirovannyy-shokoladnyy-lg.svg', previewKey: 'brashirovannyy-shokoladnyy-lg'},
+    {label: 'Африканская вишня LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/afrikanskaya-vishnya-lg.svg', previewKey: 'afrikanskaya-vishnya-lg'},
