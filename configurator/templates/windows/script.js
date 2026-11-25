@@ -122,3 +122,4 @@ $(document).ready(function () {
     {label: 'Чёрная шагрень Hyundai', colorImg: CONFIGURATOR_IMGS + '/color-lamination/chernaya-shagren-hyundai.svg', previewKey: 'chernaya-shagren-hyundai'},
     {label: 'Песочно-серый Hyundai', colorImg: CONFIGURATOR_IMGS + '/color-lamination/pesochno-seryy-hyundai.svg', previewKey: 'pesochno-seryy-hyundai'},
     {label: 'Брашированный Антрацитовый LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/brashirovannyy-antracitovyy-lg.svg', previewKey: 'brashirovannyy-antracitovyy-lg'},
+    {label: 'Брызги шампанского LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/bryzgi-shampanskogo-lg.svg', previewKey: 'bryzgi-shampanskogo-lg'},
