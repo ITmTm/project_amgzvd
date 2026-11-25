@@ -140,3 +140,4 @@ $(document).ready(function () {
     {label: 'Тёмно-зелёный LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/temno-zelenyy-lg.svg', previewKey: 'temno-zelenyy-lg'},
     {label: 'Ледяной серый LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/ledyanoy-seryy-lg.svg', previewKey: 'ledyanoy-seryy-lg'},
     {label: 'Глубокий чёрный LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/glubokiy-chernyy-lg.svg', previewKey: 'glubokiy-chernyy-lg'},
+    {label: 'Блэк ульти-мат LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/blek-ulti-mat-lg.svg', previewKey: 'blek-ulti-mat-lg'},
