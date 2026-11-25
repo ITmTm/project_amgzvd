@@ -134,3 +134,4 @@ $(document).ready(function () {
     {label: 'Сапели LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/sapeli-lg.svg', previewKey: 'sapeli-lg'},
     {label: 'Дуб антик LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/dub-antik-lg.svg', previewKey: 'dub-antik-lg'},
     {label: 'Бургундия LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/burgundiya-lg.svg', previewKey: 'burgundiya-lg'},
+    {label: 'Светло-серый LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/svetlo-seryy-lg.svg', previewKey: 'svetlo-seryy-lg'},
