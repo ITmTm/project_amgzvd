@@ -138,3 +138,4 @@ $(document).ready(function () {
     {label: 'Морёная сосна LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/morenaya-sosna-lg.svg', previewKey: 'morenaya-sosna-lg'},
     {label: 'Грецкий орех LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/greckiy-oreh-lg.svg', previewKey: 'greckiy-oreh-lg'},
     {label: 'Тёмно-зелёный LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/temno-zelenyy-lg.svg', previewKey: 'temno-zelenyy-lg'},
+    {label: 'Ледяной серый LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/ledyanoy-seryy-lg.svg', previewKey: 'ledyanoy-seryy-lg'},
