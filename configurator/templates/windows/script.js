@@ -125,3 +125,4 @@ $(document).ready(function () {
     {label: 'Брызги шампанского LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/bryzgi-shampanskogo-lg.svg', previewKey: 'bryzgi-shampanskogo-lg'},
     {label: 'Брашированный Шоколадный LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/brashirovannyy-shokoladnyy-lg.svg', previewKey: 'brashirovannyy-shokoladnyy-lg'},
     {label: 'Африканская вишня LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/afrikanskaya-vishnya-lg.svg', previewKey: 'afrikanskaya-vishnya-lg'},
+    {label: 'Античная сосна LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/antichnaya-sosna-lg.svg', previewKey: 'antichnaya-sosna-lg'},
