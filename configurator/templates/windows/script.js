@@ -128,3 +128,4 @@ $(document).ready(function () {
     {label: 'Античная сосна LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/antichnaya-sosna-lg.svg', previewKey: 'antichnaya-sosna-lg'},
     {label: 'Тёмный Тик LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/temnyy-tik-lg.svg', previewKey: 'temnyy-tik-lg'},
     {label: 'Винтажная сосна LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/vintazhnaya-sosna-lg.svg', previewKey: 'vintazhnaya-sosna-lg'},
+    {label: 'Тёмно-синий LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/temno-siniy-lg.svg', previewKey: 'temno-siniy-lg'},
