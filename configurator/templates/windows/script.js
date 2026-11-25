@@ -132,3 +132,4 @@ $(document).ready(function () {
     {label: 'Старинный дуб LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/starinnyy-dub-lg.svg', previewKey: 'starinnyy-dub-lg'},
     {label: 'Шоколадная сосна LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/shokoladnaya-sosna-lg.svg', previewKey: 'shokoladnaya-sosna-lg'},
     {label: 'Сапели LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/sapeli-lg.svg', previewKey: 'sapeli-lg'},
+    {label: 'Дуб антик LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/dub-antik-lg.svg', previewKey: 'dub-antik-lg'},
