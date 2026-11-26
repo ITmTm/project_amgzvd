@@ -143,3 +143,4 @@ $(document).ready(function () {
     {label: 'Блэк ульти-мат LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/blek-ulti-mat-lg.svg', previewKey: 'blek-ulti-mat-lg'},
     {label: 'Полосатая сосна LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/polosataya-sosna-lg.svg', previewKey: 'polosataya-sosna-lg'},
     {label: 'Кремовый LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/kremovyy-lg.svg', previewKey: 'kremovyy-lg'},
+    {label: 'Сиена Светлая LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/siena-svetlaya-lg.svg', previewKey: 'siena-svetlaya-lg'},
