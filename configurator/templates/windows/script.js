@@ -144,3 +144,4 @@ $(document).ready(function () {
     {label: 'Полосатая сосна LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/polosataya-sosna-lg.svg', previewKey: 'polosataya-sosna-lg'},
     {label: 'Кремовый LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/kremovyy-lg.svg', previewKey: 'kremovyy-lg'},
     {label: 'Сиена Светлая LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/siena-svetlaya-lg.svg', previewKey: 'siena-svetlaya-lg'},
+    {label: 'Светлый дуб LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/svetlyy-dub-lg.svg', previewKey: 'svetlyy-dub-lg'},
