@@ -156,3 +156,4 @@ $(document).ready(function () {
     {label: 'Тонированное стекло', colorImg: CONFIGURATOR_IMGS + '/glass-colors/toner-glass.svg'},
     {label: 'Стекло с упрочняющей пленкой', colorImg: CONFIGURATOR_IMGS + '/glass-colors/reinforced-glass.svg'},
     {label: 'Обычное стекло', colorImg: CONFIGURATOR_IMGS + '/glass-colors/i-glass.svg'},
+  ];
