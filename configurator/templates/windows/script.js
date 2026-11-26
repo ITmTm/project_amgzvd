@@ -152,3 +152,4 @@ $(document).ready(function () {
     {label: 'И-стекло (низкоэмиссионное)', colorImg: CONFIGURATOR_IMGS + '/glass-colors/i-glass.svg'},
     {label: 'С мультистеклом', colorImg: CONFIGURATOR_IMGS + '/glass-colors/multi-glass.svg'},
     {label: 'С закаленным стеклом', colorImg: CONFIGURATOR_IMGS + '/glass-colors/tempered-glass.svg'},
+    {label: 'Триплекс', colorImg: CONFIGURATOR_IMGS + '/glass-colors/triplex-glass.svg'},
