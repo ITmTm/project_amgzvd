@@ -161,3 +161,4 @@ $(document).ready(function () {
   var hardwareEconom = [
     {label: 'ФУТУРУСС', value: 'futuruss'},
     {label: 'МАКО «Мульти-Эко»', value: 'mako'},
+  ];
