@@ -157,3 +157,5 @@ $(document).ready(function () {
     {label: 'Стекло с упрочняющей пленкой', colorImg: CONFIGURATOR_IMGS + '/glass-colors/reinforced-glass.svg'},
     {label: 'Обычное стекло', colorImg: CONFIGURATOR_IMGS + '/glass-colors/i-glass.svg'},
   ];
+
+  var hardwareEconom = [
