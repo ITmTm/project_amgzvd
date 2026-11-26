@@ -159,3 +159,4 @@ $(document).ready(function () {
   ];
 
   var hardwareEconom = [
+    {label: 'ФУТУРУСС', value: 'futuruss'},
