@@ -142,3 +142,4 @@ $(document).ready(function () {
     {label: 'Глубокий чёрный LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/glubokiy-chernyy-lg.svg', previewKey: 'glubokiy-chernyy-lg'},
     {label: 'Блэк ульти-мат LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/blek-ulti-mat-lg.svg', previewKey: 'blek-ulti-mat-lg'},
     {label: 'Полосатая сосна LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/polosataya-sosna-lg.svg', previewKey: 'polosataya-sosna-lg'},
+    {label: 'Кремовый LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/kremovyy-lg.svg', previewKey: 'kremovyy-lg'},
