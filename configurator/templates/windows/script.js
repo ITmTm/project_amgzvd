@@ -164,3 +164,4 @@ $(document).ready(function () {
   ];
 
   var hardwarePremium = [
+    {label: 'ФУТУРУСС', value: 'futuruss'},
