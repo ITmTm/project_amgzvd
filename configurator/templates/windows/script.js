@@ -165,3 +165,4 @@ $(document).ready(function () {
 
   var hardwarePremium = [
     {label: 'ФУТУРУСС', value: 'futuruss'},
+    {label: 'МАКО «Мульти-Матик»', value: 'mako'},
