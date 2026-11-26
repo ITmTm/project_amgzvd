@@ -148,3 +148,4 @@ $(document).ready(function () {
   ];
 
   var glassList = [
+    {label: 'С аргоном', colorImg: CONFIGURATOR_IMGS + '/glass-colors/argon-glass.svg', default: true},
