@@ -150,3 +150,4 @@ $(document).ready(function () {
   var glassList = [
     {label: 'С аргоном', colorImg: CONFIGURATOR_IMGS + '/glass-colors/argon-glass.svg', default: true},
     {label: 'И-стекло (низкоэмиссионное)', colorImg: CONFIGURATOR_IMGS + '/glass-colors/i-glass.svg'},
+    {label: 'С мультистеклом', colorImg: CONFIGURATOR_IMGS + '/glass-colors/multi-glass.svg'},
