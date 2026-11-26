@@ -162,3 +162,5 @@ $(document).ready(function () {
     {label: 'ФУТУРУСС', value: 'futuruss'},
     {label: 'МАКО «Мульти-Эко»', value: 'mako'},
   ];
+
+  var hardwarePremium = [
