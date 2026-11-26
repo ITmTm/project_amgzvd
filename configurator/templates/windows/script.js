@@ -146,3 +146,5 @@ $(document).ready(function () {
     {label: 'Сиена Светлая LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/siena-svetlaya-lg.svg', previewKey: 'siena-svetlaya-lg'},
     {label: 'Светлый дуб LG', colorImg: CONFIGURATOR_IMGS + '/color-lamination/svetlyy-dub-lg.svg', previewKey: 'svetlyy-dub-lg'},
   ];
+
+  var glassList = [
