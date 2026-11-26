@@ -154,3 +154,4 @@ $(document).ready(function () {
     {label: 'С закаленным стеклом', colorImg: CONFIGURATOR_IMGS + '/glass-colors/tempered-glass.svg'},
     {label: 'Триплекс', colorImg: CONFIGURATOR_IMGS + '/glass-colors/triplex-glass.svg'},
     {label: 'Тонированное стекло', colorImg: CONFIGURATOR_IMGS + '/glass-colors/toner-glass.svg'},
+    {label: 'Стекло с упрочняющей пленкой', colorImg: CONFIGURATOR_IMGS + '/glass-colors/reinforced-glass.svg'},
