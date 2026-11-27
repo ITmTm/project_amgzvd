@@ -184,3 +184,4 @@ $(document).ready(function () {
     warmProfile: true,
     hiddenHinges: true,
     tiltFirst: true,
+  }
