@@ -171,3 +171,4 @@ $(document).ready(function () {
   var checkboxesWithoutWarmProfile = {
     warmFrame: true,
     gluing: true,
+    film: true,
