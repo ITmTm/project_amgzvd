@@ -175,3 +175,4 @@ $(document).ready(function () {
     warmProfile: false,
     hiddenHinges: true,
     tiltFirst: true,
+  }
