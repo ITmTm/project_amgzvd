@@ -172,3 +172,4 @@ $(document).ready(function () {
     warmFrame: true,
     gluing: true,
     film: true,
+    warmProfile: false,
