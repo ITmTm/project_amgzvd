@@ -180,3 +180,4 @@ $(document).ready(function () {
   var checkboxesWithWarmProfile = {
     warmFrame: true,
     gluing: true,
+    film: true,
