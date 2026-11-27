@@ -185,3 +185,10 @@ $(document).ready(function () {
     hiddenHinges: true,
     tiltFirst: true,
   }
+
+
+  // ================================
+  // ДАННЫЕ КОНФИГУРАТОРА
+  // ================================
+
+  var windowConfigs = {
