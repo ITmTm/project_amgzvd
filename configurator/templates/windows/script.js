@@ -183,3 +183,4 @@ $(document).ready(function () {
     film: true,
     warmProfile: true,
     hiddenHinges: true,
+    tiltFirst: true,
