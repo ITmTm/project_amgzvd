@@ -192,3 +192,4 @@ $(document).ready(function () {
   // ================================
 
   var windowConfigs = {
+    econom: {
