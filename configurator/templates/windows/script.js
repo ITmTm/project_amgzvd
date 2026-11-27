@@ -176,3 +176,5 @@ $(document).ready(function () {
     hiddenHinges: true,
     tiltFirst: true,
   }
+
+  var checkboxesWithWarmProfile = {
