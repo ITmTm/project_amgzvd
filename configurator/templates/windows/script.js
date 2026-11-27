@@ -182,3 +182,4 @@ $(document).ready(function () {
     gluing: true,
     film: true,
     warmProfile: true,
+    hiddenHinges: true,
